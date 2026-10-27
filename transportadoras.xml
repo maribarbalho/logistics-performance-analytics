@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transportadoras>
+  <transportadora id="TRP01" ativo="true">
+    <nome>RápidoSul Transportes</nome>
+    <cnpj>61.794.549/1801-72</cnpj>
+    <modal>Rodoviário</modal>
+    <contato><nome>Marina Costa</nome><telefone>(11) 91645-9779</telefone><email>comercial@rapidosultransportes.com.br</email></contato>
+    <contratos>
+      <contrato numero="CT-2024-011"><vigencia inicio="2024-01-01" fim="2025-12-31"/><tarifa_km moeda="BRL">3.03</tarifa_km><sla_horas>96</sla_horas><regioes><regiao>PR</regiao><regiao>MG</regiao><regiao>RJ</regiao><regiao>DF</regiao></regioes></contrato>
+      <contrato numero="CT-2025-012"><vigencia inicio="2025-01-01" fim="2026-12-31"/><tarifa_km moeda="BRL">3.1799999999999997</tarifa_km><sla_horas>96</sla_horas><regioes><regiao>BA</regiao><regiao>CE</regiao><regiao>SP</regiao></regioes></contrato>
+    </contratos>
+  </transportadora>
+  <transportadora id="TRP02" ativo="true">
+    <nome>TransBrasil Logística</nome>
+    <cnpj>10.277.697/4995-64</cnpj>
+    <modal>Rodoviário</modal>
+    <contato><nome>Carlos Souza</nome><telefone>(21) 90310-3037</telefone><email>comercial@transbrasillogistica.com.br</email></contato>
+    <contratos>
+      <contrato numero="CT-2024-021"><vigencia inicio="2024-01-01" fim="2025-12-31"/><tarifa_km moeda="BRL">1.81</tarifa_km><sla_horas>72</sla_horas><regioes><regiao>GO</regiao><regiao>CE</regiao><regiao>PR</regiao><regiao>RJ</regiao><regiao>RS</regiao><regiao>PE</regiao></regioes></contrato>
+    </contratos>
+  </transportadora>
+  <transportadora id="TRP03" ativo="true">
+    <nome>Veloz Cargas</nome>
+    <cnpj>60.122.777/0793-34</cnpj>
+    <modal>Rodoviário</modal>
+    <contato><nome>Ricardo Costa</nome><telefone>(11) 95016-6799</telefone><email>comercial@velozcargas.com.br</email></contato>
+    <contratos>
+      <contrato numero="CT-2024-031"><vigencia inicio="2024-01-01" fim="2025-12-31"/><tarifa_km moeda="BRL">2.16</tarifa_km><sla_horas>48</sla_horas><regioes><regiao>BA</regiao><regiao>PE</regiao><regiao>CE</regiao><regiao>DF</regiao><regiao>AM</regiao><regiao>PR</regiao></regioes></contrato>
+      <contrato numero="CT-2025-032"><vigencia inicio="2025-01-01" fim="2026-12-31"/><tarifa_km moeda="BRL">2.31</tarifa_km><sla_horas>48</sla_horas><regioes><regiao>BA</regiao><regiao>DF</regiao><regiao>SC</regiao></regioes></contrato>
+    </contratos>
+  </transportadora>
+  <transportadora id="TRP04" ativo="true">
+    <nome>Expresso Nordeste</nome>
+    <cnpj>46.717.957/6024-37</cnpj>
+    <modal>Rodoviário</modal>
+    <contato><nome>Paulo Costa</nome><telefone>(21) 98395-9724</telefone><email>comercial@expressonordeste.com.br</email></contato>
+    <contratos>
+      <contrato numero="CT-2024-041"><vigencia inicio="2024-01-01" fim="2025-12-31"/><tarifa_km moeda="BRL">3.13</tarifa_km><sla_horas>120</sla_horas><regioes><regiao>ES</regiao><regiao>PE</regiao><regiao>MG</regiao><regiao>DF</regiao><regiao>PR</regiao></regioes></contrato>
+      <contrato numero="CT-2025-042"><vigencia inicio="2025-01-01" fim="2026-12-31"/><tarifa_km moeda="BRL">3.28</tarifa_km><sla_horas>96</sla_horas><regioes><regiao>GO</regiao><regiao>PE</regiao><regiao>MG</regiao></regioes></contrato>
+    </contratos>
+  </transportadora>
+  <transportadora id="TRP05" ativo="true">
+    <nome>Águia Log</nome>
+    <cnpj>23.297.167/4338-00</cnpj>
+    <modal>Aéreo</modal>
+    <contato><nome>Paulo Lima</nome><telefone>(31) 92280-1561</telefone><email>comercial@aguialog.com.br</email></contato>
+    <contratos>
+      <contrato numero="CT-2024-051"><vigencia inicio="2024-01-01" fim="2025-12-31"/><tarifa_km moeda="BRL">9.5</tarifa_km><sla_horas>48</sla_horas><regioes><regiao>PE</regiao><regiao>RS</regiao><regiao>SC</regiao><regiao>GO</regiao></regioes></contrato>
+    </contratos>
+  </transportadora>
+  <transportadora id="TRP06" ativo="true">
+    <nome>MaxiFrete</nome>
+    <cnpj>84.289.107/7119-91</cnpj>
+    <modal>Multimodal</modal>
+    <contato><nome>Ricardo Silva</nome><telefone>(71) 91213-5247</telefone><email>comercial@maxifrete.com.br</email></contato>
+    <contratos>
+      <contrato numero="CT-2024-061"><vigencia inicio="2024-01-01" fim="2025-12-31"/><tarifa_km moeda="BRL">3.65</tarifa_km><sla_horas>48</sla_horas><regioes><regiao>GO</regiao><regiao>SC</regiao><regiao>AM</regiao><regiao>MG</regiao></regioes></contrato>
+      <contrato numero="CT-2025-062"><vigencia inicio="2025-01-01" fim="2026-12-31"/><tarifa_km moeda="BRL">3.8</tarifa_km><sla_horas>48</sla_horas><regioes><regiao>PE</regiao><regiao>BA</regiao><regiao>SP</regiao><regiao>PR</regiao></regioes></contrato>
+    </contratos>
+  </transportadora>
+  <transportadora id="TRP07" ativo="false">
+    <nome>Rodonorte</nome>
+    <cnpj>75.482.145/6532-86</cnpj>
+    <modal>Rodoviário</modal>
+    <contato><nome>Marina Souza</nome><telefone>(41) 96678-5072</telefone><email>comercial@rodonorte.com.br</email></contato>
+    <contratos>
+      <contrato numero="CT-2024-071"><vigencia inicio="2024-01-01" fim="2025-12-31"/><tarifa_km moeda="BRL">3.8</tarifa_km><sla_horas>48</sla_horas><regioes><regiao>SC</regiao><regiao>ES</regiao><regiao>BA</regiao></regioes></contrato>
+    </contratos>
+  </transportadora>
+  <transportadora id="TRP08" ativo="true">
+    <nome>CargoPrime</nome>
+    <cnpj>26.060.290/8466-84</cnpj>
+    <modal>Multimodal</modal>
+    <contato><nome>Paulo Lima</nome><telefone>(11) 94892-6738</telefone><email>comercial@cargoprime.com.br</email></contato>
+    <contratos>
+      <contrato numero="CT-2024-081"><vigencia inicio="2024-01-01" fim="2025-12-31"/><tarifa_km moeda="BRL">4.16</tarifa_km><sla_horas>96</sla_horas><regioes><regiao>ES</regiao><regiao>PR</regiao><regiao>RS</regiao><regiao>RJ</regiao><regiao>SP</regiao><regiao>SC</regiao></regioes></contrato>
+      <contrato numero="CT-2025-082"><vigencia inicio="2025-01-01" fim="2026-12-31"/><tarifa_km moeda="BRL">4.3100000000000005</tarifa_km><sla_horas>120</sla_horas><regioes><regiao>CE</regiao><regiao>ES</regiao><regiao>RS</regiao><regiao>PR</regiao></regioes></contrato>
+    </contratos>
+  </transportadora>
+</transportadoras>

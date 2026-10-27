@@ -1,0 +1,311 @@
+﻿cliente_id;razao_social;cnpj;cidade;uf;segmento;data_cadastro;email;limite_credito
+CLI0001;Ômega Comércio EIRELI;32.181.960/0133-89;Rio de Janeiro;RJ;Indústria;2021-03-25;contato@omegacomercioeireli.com.br;R$ 180.424,81
+CLI0002;Agro Equipamentos S.A.;94.026.542/3511-61;Florianópolis;SC;Construção;09/11/2022;contato@agroequipamentossa.com.br;R$ 152.912,88
+CLI0003;Beta Suprimentos Ltda;61.849.593/1034-13;Vitória;ES;Indústria;06/04/2023;contato@betasuprimentosltda.com.br;R$ 73.103,53
+CLI0004;Vale Indústria EIRELI;34.192.832/7648-35;Curitiba;pr;Indústria;2021-07-27;contato@valeindustriaeireli.com.br;R$ 206.341,64
+CLI0005;Ponte Equipamentos EIRELI;39.537.672/4238-84;Campinas;SP;Serviços;2023-10-21;contato@ponteequipamentoseireli.com.br;R$ 224.966,61
+CLI0006;Serra Materiais S.A.;87101226916697;Ribeirão Preto;SP ;Saúde;26/10/2021;contato@serramateriaissa.com.br;R$ 242.914,20
+CLI0007;Alfa Distribuidora EIRELI;51.462.704/8281-48;Goiânia;GO;Saúde;25/03/2021;contato@alfadistribuidoraeireli.com.br;R$ 42.445,62
+CLI0008;Brasil Máquinas Ltda;57.015.430/3911-71;Recife;PE;Saúde;2020-05-30;contato@brasilmaquinasltda.com.br;
+CLI0009;Aço Máquinas S.A.;89638346578713;Belo Horizonte;MG;Varejo;20/09/2019;contato@acomaquinassa.com.br;R$ 87.830,96
+CLI0010;Mega Máquinas S.A.;30.103.105/1834-73;Recife;PE;Saúde;25/06/2020;contato@megamaquinassa.com.br;R$ 182.221,38
+CLI0011;Mega Ferragens ME;76.311.656/6701-06;Rio de Janeiro;RJ;Serviços;2022-10-21;contato@megaferragensme.com.br;R$ 201.145,17
+CLI0012;Ômega Importadora S.A.;87.262.473/1781-08;Rio de Janeiro;RJ;Indústria;18/01/2020;contato@omegaimportadorasa.com.br;R$ 231.959,91
+CLI0013;Norte Indústria ME;73.602.606/4746-87;Florianópolis;SC;Varejo;16/02/2021;contato@norteindustriame.com.br;R$ 77.693,42
+CLI0014;Beta Ferragens Ltda;50.097.882/0812-19;Brasília;DF;Indústria;21/08/2021;contatobetaferragensltda.com.br;R$ 103.925,01
+CLI0015;Mega Importadora Ltda;16.998.543/5346-24;Recife;PE;Agronegócio;19/07/2022;contato@megaimportadoraltda.com.br;R$ 232.609,49
+CLI0016;Delta Comércio ME;91.183.842/5135-42;Recife;PE;Agronegócio;2022-05-24;contato@deltacomerciome.com.br;R$ 154.861,05
+CLI0017;Tech Comércio EIRELI;12.411.824/4935-34;Vitória;ES;Saúde;2024-06-24;contato@techcomercioeireli.com.br;R$ 66.524,71
+CLI0018;Beta Distribuidora ME;40.052.427/8680-11;Manaus;am;Serviços;02/09/2020;contato@betadistribuidorame.com.br;R$ 138.669,62
+CLI0019;Vale Ferragens S.A.;20.450.533/1586-92;Porto Alegre;RS;Varejo;2020-10-27;;R$ 244.170,48
+CLI0020;Brasil Equipamentos Ltda;56.342.160/7337-54;Ribeirão Preto;sp;Varejo;02/07/2021;contato@brasilequipamentosltda.com.br;R$ 10.797,79
+CLI0021;Sul Equipamentos EIRELI;14.586.850/1429-40;Belo Horizonte;MG;Indústria;15/11/2023;contato@sulequipamentoseireli.com.br;R$ 89.693,34
+CLI0022;Ponte Equipamentos Ltda;93.406.088/3561-59;Porto Alegre;RS;Construção;25/05/2020;contato@ponteequipamentosltda.com.br;R$ 181.339,79
+CLI0023;Prime Máquinas EIRELI;65.648.236/6299-46;Fortaleza;CE;Saúde;02/01/2019;contato@primemaquinaseireli.com.br;R$ 79.449,36
+CLI0024;Sol Suprimentos ME;38.721.489/5134-33;Fortaleza;CE;Varejo;11/04/2019;contato@solsuprimentosme.com.br;R$ 16.322,36
+CLI0025;Aço Ferragens Ltda;69.367.632/0163-28;Florianópolis;SC;Agronegócio;2019-07-25;contato@acoferragensltda.com.br;R$ 141.564,42
+CLI0026;Ômega Suprimentos S.A.;78.895.798/6872-77;Goiânia;GO;Construção;09/10/2021;contato@omegasuprimentossa.com.br;R$ 210.766,41
+CLI0027;Central Máquinas ME;34.714.345/5812-23;Fortaleza;CE;Agronegócio;17/09/2020;;R$ 178.072,69
+CLI0028;Delta Equipamentos ME;87.603.669/0967-05;Curitiba;PR ;Construção;17/05/2023;contato@deltaequipamentosme.com.br;R$ 214.094,75
+CLI0029;Mar Máquinas S.A.;34.670.656/2729-80;Florianópolis;SC;Agronegócio;2019-04-22;contato@marmaquinassa.com.br;R$ 25.567,13
+CLI0030;Mar Indústria ME;04.653.755/6464-17;Ribeirão Preto;SP;Indústria;02/08/2019;contato@marindustriame.com.br;R$ 249.977,42
+CLI0031;Vale Importadora Ltda;00.330.923/2719-37;Goiânia;GO;Serviços;15/11/2021;contato@valeimportadoraltda.com.br;R$ 192.890,03
+CLI0032;Brasil Ferragens Ltda;24.190.496/6319-31;Goiânia;GO;Serviços;20/05/2022;;R$ 213.321,84
+CLI0033;Uni Distribuidora Ltda;86.518.506/7165-72;Curitiba;PR;Agronegócio;2020-12-22;contato@unidistribuidoraltda.com.br;R$ 184.779,85
+CLI0034;Central Ferragens ME;69.453.147/3799-65;Florianópolis;SC;Indústria;2024-07-17;contato@centralferragensme.com.br;R$ 213.483,44
+CLI0035;Brasil Suprimentos S.A.;45.494.808/3136-78;Curitiba;PR;Varejo;2024-05-04;contato@brasilsuprimentossa.com.br;R$ 163.246,21
+CLI0036;Aço Suprimentos Ltda;43.634.957/8856-85;Campinas;SP;Construção;02/02/2024;contato@acosuprimentosltda.com.br;R$ 71.374,52
+CLI0037;Central Importadora Ltda;35182337498941;Brasília;DF;Varejo;28/04/2022;contato@centralimportadoraltda.com.br;R$ 60.733,38
+CLI0038;Brasil Atacado Ltda;82.400.842/7109-47;Brasília;DF;Agronegócio;2023-12-10;contato@brasilatacadoltda.com.br;R$ 88.472,95
+CLI0039;Beta Atacado ME;16.719.022/9413-18;Campinas;SP;Agronegócio;13/07/2021;contato@betaatacadome.com.br;R$ 195.044,92
+CLI0040;Serra Suprimentos ME;96.499.091/3341-23;Belo Horizonte;MG ;Varejo;04/11/2019;contatoserrasuprimentosme.com.br;R$ 43.350,49
+CLI0041;Mar Suprimentos ME;03.447.134/9361-83;Belo Horizonte;mg ;Serviços;02/09/2020;contato@marsuprimentosme.com.br;R$ 227.560,80
+CLI0042;Nova Distribuidora Ltda;49.947.174/6488-77;Ribeirão Preto;SP;Indústria;2019-06-13;contato@novadistribuidoraltda.com.br;R$ 222.908,61
+CLI0043;Ponte Ferragens EIRELI;13.990.490/2787-42;São Paulo;SP;Saúde;21/11/2023;contatoponteferragenseireli.com.br;R$ 160.522,26
+CLI0044;Aço Distribuidora ME;65512567468071;Curitiba;PR;Construção;2021-10-30;contato@acodistribuidorame.com.br;R$ 84.202,08
+CLI0045;Serra Máquinas Ltda;87.603.859/7703-48;Fortaleza;CE;Varejo;2022-03-25;contato@serramaquinasltda.com.br;R$ 112.338,44
+CLI0046;Aço Distribuidora Ltda;93.248.086/1317-12;Fortaleza;CE ;Agronegócio;10/04/2022;contato@acodistribuidoraltda.com.br;R$ 129.673,64
+CLI0047;Central Equipamentos ME;37.826.398/2146-58;Florianópolis;SC;Construção;2019-01-11;contato@centralequipamentosme.com.br;R$ 74.295,55
+CLI0048;Prime Ferragens ME;27.875.588/6753-39;Manaus;AM;Agronegócio;2021-08-14;contato@primeferragensme.com.br;R$ 214.723,18
+CLI0049;Mar Comércio EIRELI;76.627.028/9517-18;Brasília;DF;Agronegócio;04/03/2019;contato@marcomercioeireli.com.br;R$ 181.998,74
+CLI0050;Mar Indústria Ltda;45.961.586/5780-91;Florianópolis;SC;Varejo;23/03/2022;contato@marindustrialtda.com.br;R$ 249.369,35
+CLI0051;Delta Equipamentos Ltda;17.240.050/4556-23;Goiânia;GO;Saúde;15/08/2023;contato@deltaequipamentosltda.com.br;R$ 143.652,38
+CLI0052;Brasil Indústria S.A.;96.937.923/7474-07;Campinas;SP;Construção;09/10/2020;contato@brasilindustriasa.com.br;R$ 23.096,17
+CLI0053;Vale Ferragens EIRELI;64.743.671/3695-94;Fortaleza;CE;Serviços;24/04/2022;contato@valeferragenseireli.com.br;R$ 10.375,20
+CLI0054;Serra Atacado Ltda;09.743.953/3942-10;Recife;PE;Construção;11/12/2023;contato@serraatacadoltda.com.br;R$ 13.174,31
+CLI0055;Vale Indústria Ltda;45.623.285/8842-47;Vitória;ES;Construção;2022-10-19;contato@valeindustrialtda.com.br;R$ 202.036,97
+CLI0056;Sol Distribuidora S.A.;36.851.604/8175-49;Goiânia;GO;Agronegócio;02/03/2023;contato@soldistribuidorasa.com.br;R$ 31.544,80
+CLI0057;Norte Suprimentos Ltda;85.931.746/1200-47;Recife;PE;Indústria;2020-02-03;contato@nortesuprimentosltda.com.br;R$ 62.526,01
+CLI0058;Agro Indústria ME;58.692.617/9640-53;Florianópolis;sc;Agronegócio;27/12/2023;contato@agroindustriame.com.br;
+CLI0059;Vale Distribuidora EIRELI;50.643.171/3900-53;Salvador;BA;Varejo;20/04/2021;contato@valedistribuidoraeireli.com.br;R$ 21.809,49
+CLI0060;Agro Importadora S.A.;35.290.422/8421-02;Manaus;AM;Indústria;2023-01-07;contato@agroimportadorasa.com.br;R$ 198.546,24
+CLI0061;Norte Ferragens EIRELI;24.026.811/7758-91;São Paulo;SP;Agronegócio;25/08/2024;contato@norteferragenseireli.com.br;R$ 59.279,69
+CLI0062;Uni Comércio EIRELI;00.766.177/1159-21;Florianópolis;SC;Varejo;31/01/2022;contato@unicomercioeireli.com.br;R$ 157.957,79
+CLI0063;Mega Máquinas EIRELI;98.478.961/1836-73;Porto Alegre;RS;Agronegócio;2022-10-20;contato@megamaquinaseireli.com.br;R$ 207.717,71
+CLI0064;Serra Equipamentos Ltda;65.452.711/1161-52;Curitiba;PR;Saúde;03/09/2019;contato@serraequipamentosltda.com.br;R$ 148.683,95
+CLI0065;Agro Máquinas EIRELI;16560494519832;Fortaleza;CE;Serviços;29/05/2024;contatoagromaquinaseireli.com.br;R$ 59.939,99
+CLI0066;Ômega Materiais EIRELI;49.368.998/0940-24;Campinas;SP;Serviços;19/06/2022;contato@omegamateriaiseireli.com.br;R$ 230.776,69
+CLI0067;Vale Comércio S.A.;29.612.018/3667-52;Manaus;AM;Construção;2022-06-30;contato@valecomerciosa.com.br;R$ 181.791,01
+CLI0068;Mega Ferragens Ltda;02.290.147/6797-64;Vitória;ES;Varejo;29/09/2024;contatomegaferragensltda.com.br;R$ 32.885,29
+CLI0069;Mar Distribuidora EIRELI;97840369003432;Fortaleza;CE;Construção;2022-03-31;contato@mardistribuidoraeireli.com.br;R$ 85.389,98
+CLI0070;Alfa Suprimentos ME;26838851606071;Ribeirão Preto;SP;Construção;25/10/2023;contato@alfasuprimentosme.com.br;R$ 145.482,92
+CLI0071;Mar Atacado Ltda;05297516136968;Porto Alegre;RS;Indústria;2023-06-10;contato@maratacadoltda.com.br;R$ 218.278,48
+CLI0072;Ponte Importadora EIRELI;21818835523124;Goiânia;GO;Varejo;2020-12-11;contato@ponteimportadoraeireli.com.br;R$ 152.587,75
+CLI0073;Delta Indústria ME;99.799.552/7177-44;Florianópolis;sc;Saúde;2019-08-19;contato@deltaindustriame.com.br;R$ 91.225,84
+CLI0074;Delta Atacado ME;00541199867980;Florianópolis;SC;Agronegócio;10/02/2021;contato@deltaatacadome.com.br;R$ 83.774,06
+CLI0075;Ponte Distribuidora S.A.;37.788.925/5466-59;São Paulo;SP;Indústria;02/10/2022;contato@pontedistribuidorasa.com.br;R$ 21.148,40
+CLI0076;Ômega Máquinas ME;49.251.925/4629-14;Belo Horizonte;MG;Saúde;23/03/2023;contato@omegamaquinasme.com.br;R$ 162.655,85
+CLI0077;Ponte Indústria Ltda;68.505.423/5733-22;Fortaleza;CE;Indústria;26/04/2022;contato@ponteindustrialtda.com.br;R$ 211.884,96
+CLI0078;Ômega Máquinas Ltda;59.296.222/9270-65;Fortaleza;CE;Serviços;2021-08-30;contato@omegamaquinasltda.com.br;
+CLI0079;Uni Atacado ME;83473597746886;Rio de Janeiro;RJ;Varejo;28/03/2021;contato@uniatacadome.com.br;R$ 201.308,51
+CLI0080;Nova Atacado Ltda;75.818.141/2478-26;Fortaleza;CE;Indústria;28/06/2021;contato@novaatacadoltda.com.br;R$ 205.092,30
+CLI0081;Vale Comércio ME;68.536.153/0515-22;São Paulo;SP;Indústria;2022-03-21;contato@valecomerciome.com.br;R$ 229.762,06
+CLI0082;Aço Indústria ME;90.104.328/9861-43;Florianópolis;SC;Construção;2020-05-14;contato@acoindustriame.com.br;R$ 16.698,61
+CLI0083;Mar Ferragens ME;17.980.893/2460-95;Campinas;SP;Varejo;2023-09-03;contato@marferragensme.com.br;R$ 50.891,91
+CLI0084;Delta Máquinas EIRELI;88.888.067/0654-05;Campinas;SP;Indústria;2022-11-13;contato@deltamaquinaseireli.com.br;R$ 64.075,85
+CLI0085;Ômega Ferragens EIRELI;05.852.772/2170-43;Ribeirão Preto;SP;Indústria;2021-03-28;contato@omegaferragenseireli.com.br;R$ 222.018,64
+CLI0086;Ponte Atacado ME;87.403.450/5415-66;Manaus;AM;Serviços;07/12/2023;;R$ 224.186,19
+CLI0087;Aço Suprimentos EIRELI;84.161.692/8451-15;Vitória;ES;Serviços;2022-04-25;;R$ 80.091,48
+CLI0088;Uni Equipamentos S.A.;75.705.964/0165-82;Brasília;DF;Indústria;07/08/2020;contato@uniequipamentossa.com.br;R$ 212.923,98
+CLI0089;Sol Comércio S.A.;35.569.092/7557-19;Campinas;SP;Varejo;08/12/2024;contato@solcomerciosa.com.br;R$ 94.902,74
+CLI0090;Ponte Atacado S.A.;02.786.814/4739-47;Campinas;SP;Varejo;17/05/2020;contato@ponteatacadosa.com.br;
+CLI0091;Delta Suprimentos S.A.;71.551.884/4225-83;Vitória;ES;Indústria;2021-04-03;contato@deltasuprimentossa.com.br;R$ 199.056,09
+CLI0092;Vale Máquinas EIRELI;82.911.467/8669-12;Florianópolis;SC;Construção;31/10/2019;contato@valemaquinaseireli.com.br;R$ 115.243,75
+CLI0093;Tech Materiais S.A.;89226801824225;Vitória;ES;Serviços;2021-07-12;contato@techmateriaissa.com.br;R$ 89.775,66
+CLI0094;Tech Atacado Ltda;38.424.981/8299-22;Belo Horizonte;MG;Serviços;14/10/2022;contato@techatacadoltda.com.br;R$ 211.419,85
+CLI0095;Mega Comércio Ltda;09.439.690/7844-73;Campinas;SP;Serviços;22/07/2023;contato@megacomercioltda.com.br;R$ 77.871,30
+CLI0096;Delta Comércio S.A.;67.735.925/5562-58;Florianópolis;sc;Saúde;2020-03-10;contato@deltacomerciosa.com.br;R$ 83.183,39
+CLI0097;Sol Distribuidora EIRELI;32104696325953;Florianópolis;SC;Varejo;02/08/2024;contato@soldistribuidoraeireli.com.br;R$ 249.012,51
+CLI0098;Sol Suprimentos EIRELI;01.687.339/5004-79;Florianópolis;SC;Serviços;11/04/2024;contato@solsuprimentoseireli.com.br;R$ 75.008,35
+CLI0099;Alfa Distribuidora ME;45.650.609/8358-41;Ribeirão Preto;SP;Agronegócio;2024-08-27;contato@alfadistribuidorame.com.br;R$ 115.336,82
+CLI0100;Agro Atacado Ltda;16.558.523/9868-00;Ribeirão Preto;SP;Indústria;15/07/2020;contato@agroatacadoltda.com.br;R$ 179.830,00
+CLI0101;Aço Máquinas ME;98.259.526/9495-88;Ribeirão Preto;SP;Saúde;29/06/2024;contato@acomaquinasme.com.br;R$ 178.641,25
+CLI0102;Prime Suprimentos Ltda;51.694.097/4993-09;Curitiba;PR;Agronegócio;29/11/2020;contato@primesuprimentosltda.com.br;R$ 133.436,92
+CLI0103;Norte Comércio Ltda;07.562.636/8970-28;Rio de Janeiro;RJ;Varejo;2022-08-24;contato@nortecomercioltda.com.br;R$ 249.540,10
+CLI0104;Ponte Indústria ME;85.854.973/3484-34;Vitória;ES;Construção;29/04/2021;contato@ponteindustriame.com.br;R$ 174.108,78
+CLI0105;Aço Materiais ME;84.419.866/5240-41;Curitiba;PR;Construção;17/12/2023;contato@acomateriaisme.com.br;R$ 165.713,15
+CLI0106;Aço Importadora S.A.;84.842.199/3308-33;Manaus;AM;Indústria;15/02/2020;contato@acoimportadorasa.com.br;R$ 106.258,83
+CLI0107;Aço Distribuidora S.A.;82.677.345/4019-38;São Paulo;SP;Serviços;02/06/2019;contato@acodistribuidorasa.com.br;R$ 228.741,28
+CLI0108;Brasil Equipamentos S.A.;06.724.004/9915-47;Vitória;ES;Serviços;17/11/2024;contato@brasilequipamentossa.com.br;R$ 126.008,54
+CLI0109;Nova Máquinas ME;31.527.420/5493-29;Belo Horizonte;MG;Serviços;2023-07-19;contato@novamaquinasme.com.br;R$ 207.612,51
+CLI0110;Tech Materiais Ltda;12.275.304/6374-54;Porto Alegre;RS;Saúde;2019-02-16;contato@techmateriaisltda.com.br;R$ 69.080,52
+CLI0111;Ômega Suprimentos EIRELI;68.414.593/3272-79;Ribeirão Preto;SP;Construção;31/08/2023;contato@omegasuprimentoseireli.com.br;R$ 176.975,48
+CLI0112;Norte Ferragens Ltda;78.519.108/8398-22;Salvador;BA;Construção;01/11/2024;contato@norteferragensltda.com.br;R$ 113.250,94
+CLI0113;Sul Ferragens ME;87.072.867/9087-40;Campinas;SP;Agronegócio;2021-11-08;contato@sulferragensme.com.br;R$ 205.031,04
+CLI0114;Sul Ferragens Ltda;65.180.170/4622-65;São Paulo;SP;Agronegócio;12/01/2024;contato@sulferragensltda.com.br;R$ 218.056,97
+CLI0115;Agro Indústria EIRELI;28.682.300/4786-86;Campinas;SP;Varejo;10/10/2021;contato@agroindustriaeireli.com.br;R$ 117.853,19
+CLI0116;Nova Atacado S.A.;10.690.331/1907-90;Vitória;es;Varejo;01/07/2019;contato@novaatacadosa.com.br;R$ 103.555,01
+CLI0117;Norte Máquinas S.A.;02.843.959/9534-28;Goiânia;GO;Varejo;21/08/2023;contato@nortemaquinassa.com.br;R$ 78.622,73
+CLI0118;Beta Máquinas S.A.;68.705.685/6624-62;Fortaleza;CE;Saúde;23/04/2024;contato@betamaquinassa.com.br;R$ 64.037,21
+CLI0119;Norte Atacado S.A.;70.866.882/6343-51;Goiânia;GO;Agronegócio;28/02/2023;contato@norteatacadosa.com.br;R$ 27.653,68
+CLI0120;Sul Comércio EIRELI;99.013.983/7354-03;Porto Alegre;RS;Varejo;25/04/2020;contato@sulcomercioeireli.com.br;R$ 187.985,41
+CLI0121;Serra Importadora EIRELI;46.785.445/8771-75;Goiânia;GO;Varejo;2023-02-27;contato@serraimportadoraeireli.com.br;R$ 81.665,89
+CLI0122;Beta Ferragens S.A.;20.489.964/2353-69;Brasília;df;Varejo;2024-08-07;contato@betaferragenssa.com.br;R$ 139.907,42
+CLI0123;Aço Suprimentos S.A.;52.287.280/8010-06;Brasília;DF;Varejo;05/08/2021;contato@acosuprimentossa.com.br;R$ 21.652,15
+CLI0124;Nova Comércio S.A.;75.099.770/0886-00;Salvador;BA;Saúde;30/01/2022;contato@novacomerciosa.com.br;R$ 136.255,84
+CLI0125;Prime Comércio ME;21.182.339/8454-61;Goiânia;GO;Construção;2023-07-22;contato@primecomerciome.com.br;R$ 117.454,45
+CLI0126;Norte Importadora EIRELI;10.166.687/0021-76;Fortaleza;CE ;Serviços;2022-09-18;contato@norteimportadoraeireli.com.br;R$ 143.634,87
+CLI0127;Norte Importadora ME;01.489.025/0392-61;Belo Horizonte;MG;Construção;27/10/2020;contato@norteimportadorame.com.br;R$ 143.169,76
+CLI0128;Mega Equipamentos EIRELI;21.850.163/1599-96;Porto Alegre;RS;Construção;02/05/2019;contato@megaequipamentoseireli.com.br;R$ 160.360,12
+CLI0129;Sol Suprimentos S.A.;86.629.619/4311-42;Curitiba;PR;Agronegócio;23/09/2020;contato@solsuprimentossa.com.br;R$ 186.215,55
+CLI0130;Ponte Materiais Ltda;04.754.121/2678-88;Campinas;SP;Agronegócio;2020-02-28;contatopontemateriaisltda.com.br;R$ 11.434,17
+CLI0131;Vale Máquinas Ltda;95.604.661/8398-26;Recife;PE;Varejo;2020-07-22;contato@valemaquinasltda.com.br;R$ 70.885,15
+CLI0132;Central Suprimentos S.A.;26.464.715/4379-93;Campinas;SP;Agronegócio;14/03/2020;contato@centralsuprimentossa.com.br;
+CLI0133;Alfa Equipamentos EIRELI;96.575.692/4593-75;Manaus;AM;Varejo;20/06/2023;contato@alfaequipamentoseireli.com.br;R$ 242.337,68
+CLI0134;Prime Suprimentos S.A.;64.651.939/8280-73;Curitiba;PR;Agronegócio;2022-04-08;;
+CLI0135;Central Indústria ME;61.797.968/8680-58;Goiânia;GO;Saúde;15/12/2019;contato@centralindustriame.com.br;R$ 31.795,51
+CLI0136;Norte Materiais S.A.;90.965.610/1438-88;Fortaleza;CE;Saúde;24/06/2021;contato@nortemateriaissa.com.br;R$ 114.215,75
+CLI0137;Serra Suprimentos S.A.;07.146.112/5457-38;Curitiba;PR;Agronegócio;27/11/2022;contato@serrasuprimentossa.com.br;R$ 121.659,82
+CLI0138;Delta Atacado Ltda;10.512.382/8258-67;Goiânia;go;Varejo;2023-07-18;contato@deltaatacadoltda.com.br;R$ 159.291,28
+CLI0139;Brasil Equipamentos ME;93.796.603/3419-18;São Paulo;SP;Varejo;2023-02-07;contato@brasilequipamentosme.com.br;R$ 84.866,30
+CLI0140;Aço Máquinas EIRELI;69.691.557/9249-91;Recife;PE;Serviços;02/07/2020;contato@acomaquinaseireli.com.br;R$ 81.730,51
+CLI0141;Norte Atacado Ltda;52.866.929/6627-82;Ribeirão Preto;SP;Saúde;2020-11-14;contato@norteatacadoltda.com.br;
+CLI0142;Nova Indústria EIRELI;79.050.723/6887-67;Manaus;AM;Agronegócio;24/12/2023;contato@novaindustriaeireli.com.br;R$ 124.731,38
+CLI0143;Delta Ferragens Ltda;34.043.842/7978-81;Goiânia;GO;Saúde;2020-04-12;contatodeltaferragensltda.com.br;R$ 70.632,78
+CLI0144;Agro Materiais Ltda;78.361.340/7451-71;Goiânia;go;Varejo;2021-05-09;contato@agromateriaisltda.com.br;
+CLI0145;Mega Materiais ME;92.330.958/4982-54;Ribeirão Preto;SP;Construção;31/12/2021;contato@megamateriaisme.com.br;R$ 238.337,35
+CLI0146;Tech Distribuidora S.A.;60.422.325/3672-94;Goiânia;GO;Serviços;24/08/2023;contato@techdistribuidorasa.com.br;R$ 96.917,22
+CLI0147;Delta Distribuidora ME;45.775.901/7518-63;Salvador;BA;Agronegócio;17/05/2021;contatodeltadistribuidorame.com.br;R$ 126.205,16
+CLI0148;Ponte Atacado EIRELI;92975001701277;Salvador;BA;Indústria;2023-10-19;contato@ponteatacadoeireli.com.br;R$ 54.567,96
+CLI0149;Central Distribuidora EIRELI;15.206.436/1103-71;Belo Horizonte;MG;Varejo;2021-07-15;;R$ 132.263,84
+CLI0150;Sol Comércio Ltda;51.627.136/1115-54;Brasília;DF;Varejo;17/04/2023;;R$ 194.497,82
+CLI0151;Nova Indústria Ltda;90.927.532/6973-11;Salvador;BA;Varejo;19/05/2020;;R$ 149.445,61
+CLI0152;Serra Materiais ME;23.413.899/9404-38;Curitiba;PR;Saúde;18/09/2024;contato@serramateriaisme.com.br;R$ 51.218,40
+CLI0153;Norte Suprimentos ME;37.918.055/2696-58;Campinas;SP;Serviços;2020-12-08;contato@nortesuprimentosme.com.br;R$ 191.867,85
+CLI0154;Delta Comércio Ltda;43.006.848/6661-88;São Paulo;SP;Saúde;17/09/2020;contato@deltacomercioltda.com.br;R$ 72.979,60
+CLI0155;Prime Distribuidora S.A.;28.569.146/3031-61;Goiânia;GO;Agronegócio;2019-08-14;contato@primedistribuidorasa.com.br;R$ 80.776,07
+CLI0156;Brasil Distribuidora Ltda;20.275.884/2524-10;Brasília;DF;Construção;25/10/2023;;R$ 71.635,25
+CLI0157;Beta Suprimentos S.A.;24.191.380/0030-75;Curitiba;PR;Agronegócio;06/09/2020;contato@betasuprimentossa.com.br;R$ 48.845,43
+CLI0158;Beta Máquinas ME;53.654.195/1802-38;Rio de Janeiro;RJ;Indústria;01/07/2023;contato@betamaquinasme.com.br;R$ 21.886,98
+CLI0159;Sol Atacado EIRELI;18.705.349/4937-59;Curitiba;PR;Agronegócio;11/03/2021;contato@solatacadoeireli.com.br;R$ 184.453,52
+CLI0160;Alfa Equipamentos Ltda;85.050.641/3836-70;Rio de Janeiro;RJ ;Varejo;2022-02-20;contato@alfaequipamentosltda.com.br;R$ 27.791,53
+CLI0161;Norte Máquinas ME;57.191.826/1990-62;Brasília;DF;Varejo;09/04/2022;contato@nortemaquinasme.com.br;R$ 68.942,78
+CLI0162;Ponte Suprimentos EIRELI;13.291.212/7756-18;Rio de Janeiro;RJ;Construção;30/04/2021;contato@pontesuprimentoseireli.com.br;R$ 115.719,68
+CLI0163;Sol Atacado Ltda;24.903.521/3568-04;Campinas;SP;Construção;2020-12-13;contato@solatacadoltda.com.br;R$ 12.615,11
+CLI0164;Ômega Suprimentos Ltda;21.003.236/5199-41;Goiânia;GO;Indústria;2019-09-22;contato@omegasuprimentosltda.com.br;R$ 53.448,83
+CLI0165;Sol Indústria Ltda;51.070.296/6706-62;Vitória;ES;Construção;29/05/2021;contato@solindustrialtda.com.br;R$ 227.534,53
+CLI0166;Central Atacado ME;20.999.347/6870-14;Vitória;ES;Agronegócio;2020-07-16;contato@centralatacadome.com.br;R$ 107.712,53
+CLI0167;Tech Importadora Ltda;57.875.985/6420-59;Porto Alegre;RS;Varejo;2019-05-01;contato@techimportadoraltda.com.br;R$ 224.462,37
+CLI0168;Central Comércio ME;59.321.334/8039-65;Salvador;BA;Varejo;2020-12-22;contato@centralcomerciome.com.br;R$ 62.955,03
+CLI0169;Mega Importadora ME;42.701.039/3087-05;Salvador;BA;Saúde;05/04/2021;contato@megaimportadorame.com.br;R$ 202.579,13
+CLI0170;Ponte Indústria EIRELI;02.921.851/5691-54;São Paulo;SP;Construção;12/07/2020;;R$ 244.085,86
+CLI0171;Mar Suprimentos EIRELI;89.539.264/4220-96;Ribeirão Preto;SP;Saúde;13/05/2019;contato@marsuprimentoseireli.com.br;R$ 49.610,03
+CLI0172;Ponte Ferragens S.A.;91.725.135/5215-70;Fortaleza;CE;Construção;2021-05-08;contato@ponteferragenssa.com.br;R$ 66.137,51
+CLI0173;Delta Materiais EIRELI;10.067.626/7658-61;Goiânia;GO;Agronegócio;12/07/2021;contato@deltamateriaiseireli.com.br;R$ 44.850,85
+CLI0174;Delta Comércio EIRELI;54.115.262/1815-99;São Paulo;SP;Agronegócio;07/05/2019;contato@deltacomercioeireli.com.br;R$ 110.674,22
+CLI0175;Brasil Ferragens ME;01.533.688/4443-10;Ribeirão Preto;SP;Agronegócio;2024-07-03;contato@brasilferragensme.com.br;R$ 42.629,53
+CLI0176;Sul Distribuidora Ltda;24.171.467/7418-62;Rio de Janeiro;RJ ;Construção;12/04/2023;contato@suldistribuidoraltda.com.br;R$ 95.503,41
+CLI0177;Sol Comércio EIRELI;74.349.021/1586-93;Florianópolis;SC;Saúde;2019-09-07;contato@solcomercioeireli.com.br;R$ 210.995,31
+CLI0178;Tech Equipamentos ME;37.416.089/8992-17;Recife;PE;Varejo;2020-11-15;contato@techequipamentosme.com.br;R$ 243.180,40
+CLI0179;Sul Indústria Ltda;16.329.451/1686-85;Porto Alegre;RS;Construção;29/10/2024;contato@sulindustrialtda.com.br;R$ 117.248,51
+CLI0180;Alfa Ferragens ME;62.299.911/9148-56;Campinas;SP;Construção;2023-04-18;contato@alfaferragensme.com.br;R$ 165.422,98
+CLI0181;Beta Indústria EIRELI;29.960.653/0745-05;Porto Alegre;RS;Construção;27/06/2022;;R$ 73.684,93
+CLI0182;Nova Atacado ME;54.691.373/6785-08;Goiânia;go;Varejo;26/09/2019;contato@novaatacadome.com.br;R$ 81.225,16
+CLI0183;Tech Equipamentos S.A.;89.023.303/0705-34;Goiânia;GO;Construção;2024-03-16;contato@techequipamentossa.com.br;R$ 128.755,96
+CLI0184;Ômega Comércio S.A.;79.727.985/5241-40;Curitiba;PR;Agronegócio;23/07/2019;contato@omegacomerciosa.com.br;R$ 44.912,31
+CLI0185;Mega Importadora S.A.;33468007229034;Fortaleza;CE;Saúde;05/06/2022;contato@megaimportadorasa.com.br;R$ 179.621,42
+CLI0186;Vale Suprimentos EIRELI;74.896.910/8589-94;Rio de Janeiro;RJ;Construção;2020-03-18;contato@valesuprimentoseireli.com.br;R$ 123.025,91
+CLI0187;Central Atacado EIRELI;28.309.652/0744-66;Rio de Janeiro;RJ;Agronegócio;2019-05-25;contato@centralatacadoeireli.com.br;R$ 147.840,81
+CLI0188;Mega Importadora EIRELI;38.758.428/2417-24;Brasília;df;Serviços;19/01/2021;contato@megaimportadoraeireli.com.br;R$ 236.996,23
+CLI0189;Vale Importadora EIRELI;55.494.717/0999-17;Porto Alegre;rs;Varejo;2024-08-11;contato@valeimportadoraeireli.com.br;R$ 34.354,90
+CLI0190;Serra Máquinas EIRELI;02.235.697/2521-75;Porto Alegre;RS;Serviços;25/12/2020;contato@serramaquinaseireli.com.br;
+CLI0191;Beta Comércio ME;32.927.129/6666-76;Belo Horizonte;MG;Indústria;2019-06-04;contato@betacomerciome.com.br;R$ 135.776,74
+CLI0192;Vale Comércio EIRELI;83.003.354/2168-94;Goiânia;GO;Varejo;2019-09-25;contato@valecomercioeireli.com.br;R$ 206.841,74
+CLI0193;Prime Atacado ME;89.856.257/5326-03;Brasília;DF;Varejo;2020-06-21;contato@primeatacadome.com.br;R$ 56.741,61
+CLI0194;Alfa Ferragens S.A.;50.648.909/0100-16;Campinas;SP;Agronegócio;07/04/2023;contato@alfaferragenssa.com.br;R$ 35.280,79
+CLI0195;Uni Ferragens S.A.;18.914.117/3934-83;Porto Alegre;RS;Construção;2023-08-06;contato@uniferragenssa.com.br;R$ 77.361,04
+CLI0196;Sul Suprimentos EIRELI;00.119.721/8114-37;Rio de Janeiro;RJ;Construção;2021-12-17;contato@sulsuprimentoseireli.com.br;R$ 118.747,95
+CLI0197;Ômega Indústria Ltda;45561100225579;Manaus;am;Construção;16/01/2020;contato@omegaindustrialtda.com.br;R$ 96.292,43
+CLI0198;Serra Equipamentos ME;67.621.202/1697-97;Belo Horizonte;MG;Varejo;2023-04-05;contato@serraequipamentosme.com.br;R$ 195.895,25
+CLI0199;Uni Comércio S.A.;71.670.145/0899-35;Florianópolis;SC;Saúde;12/11/2024;contato@unicomerciosa.com.br;R$ 173.619,20
+CLI0200;Uni Distribuidora ME;37.562.890/0287-72;Fortaleza;CE;Indústria;06/07/2024;contato@unidistribuidorame.com.br;R$ 83.555,28
+CLI0201;Ponte Atacado Ltda;38.663.177/9717-75;Salvador;BA;Indústria;2024-07-30;contato@ponteatacadoltda.com.br;R$ 187.583,55
+CLI0202;Mar Comércio Ltda;19.948.837/5503-75;Manaus;AM;Saúde;21/04/2024;contato@marcomercioltda.com.br;R$ 180.581,23
+CLI0203;Vale Suprimentos Ltda;30.554.885/1027-26;Campinas;SP;Indústria;07/11/2021;contato@valesuprimentosltda.com.br;R$ 154.658,68
+CLI0204;Sul Distribuidora ME;73.516.091/7798-27;Rio de Janeiro;RJ;Indústria;12/12/2024;contato@suldistribuidorame.com.br;R$ 185.372,41
+CLI0205;Agro Equipamentos ME;82.922.169/9586-69;Vitória;ES;Serviços;2021-10-13;contato@agroequipamentosme.com.br;R$ 72.030,99
+CLI0206;Nova Indústria ME;84.858.333/9452-28;Recife;PE;Saúde;2022-08-13;contato@novaindustriame.com.br;R$ 179.036,42
+CLI0207;Vale Máquinas ME;96.846.081/0620-03;Recife;PE;Construção;21/10/2020;contato@valemaquinasme.com.br;R$ 245.965,44
+CLI0208;Central Indústria Ltda;43.805.719/8386-38;Brasília;DF;Serviços;24/03/2022;contato@centralindustrialtda.com.br;R$ 174.769,34
+CLI0209;Beta Equipamentos ME;58.004.397/3598-93;Porto Alegre;RS;Serviços;2021-03-03;contato@betaequipamentosme.com.br;R$ 77.073,54
+CLI0210;Brasil Distribuidora S.A.;81.606.484/2294-05;Ribeirão Preto;SP;Agronegócio;26/09/2020;contato@brasildistribuidorasa.com.br;R$ 14.785,44
+CLI0211;Ponte Ferragens Ltda;94.798.515/8328-18;Goiânia;go;Varejo;31/08/2023;contato@ponteferragensltda.com.br;R$ 138.054,64
+CLI0212;Serra Distribuidora EIRELI;35.554.398/7801-57;Rio de Janeiro;RJ;Varejo;2021-09-25;contato@serradistribuidoraeireli.com.br;R$ 239.929,72
+CLI0213;Serra Atacado EIRELI;85887704358112;São Paulo;SP;Saúde;24/12/2024;contato@serraatacadoeireli.com.br;R$ 6.795,99
+CLI0214;Delta Importadora S.A.;61386120750110;Manaus;AM;Varejo;28/10/2021;contato@deltaimportadorasa.com.br;R$ 141.730,63
+CLI0215;Mar Equipamentos ME;66.506.180/9190-15;Fortaleza;CE;Saúde;10/03/2020;contato@marequipamentosme.com.br;R$ 76.009,97
+CLI0216;Prime Ferragens Ltda;76.607.283/2684-24;Belo Horizonte;MG;Serviços;09/03/2023;;R$ 239.560,95
+CLI0217;Alfa Máquinas S.A.;00.996.881/4353-68;Campinas;SP;Varejo;21/10/2020;contato@alfamaquinassa.com.br;R$ 50.078,22
+CLI0218;Uni Atacado S.A.;29087814141397;Campinas;sp;Construção;2023-01-02;contato@uniatacadosa.com.br;R$ 36.412,71
+CLI0219;Norte Distribuidora EIRELI;13.577.594/9299-55;Recife;PE;Agronegócio;21/11/2020;contato@nortedistribuidoraeireli.com.br;R$ 6.183,81
+CLI0220;Central Materiais S.A.;57.775.478/1291-42;Fortaleza;CE;Saúde;15/03/2021;contato@centralmateriaissa.com.br;R$ 69.492,49
+CLI0221;Delta Distribuidora Ltda;80.996.930/8488-72;Manaus;AM;Construção;27/05/2023;contato@deltadistribuidoraltda.com.br;R$ 59.710,13
+CLI0222;Mega Atacado S.A.;88.165.803/9282-72;Florianópolis;SC;Varejo;21/08/2020;contato@megaatacadosa.com.br;R$ 185.300,35
+CLI0223;Aço Materiais Ltda;73.145.303/8567-70;Rio de Janeiro;RJ;Indústria;20/08/2022;contato@acomateriaisltda.com.br;R$ 30.290,13
+CLI0224;Tech Atacado EIRELI;89266591846386;Recife;PE;Construção;14/11/2022;contato@techatacadoeireli.com.br;R$ 124.281,08
+CLI0225;Tech Indústria ME;31.843.222/5913-65;Ribeirão Preto;SP;Serviços;2020-04-09;contato@techindustriame.com.br;R$ 122.971,58
+CLI0226;Mega Indústria ME;30.299.228/0920-24;São Paulo;SP;Varejo;2024-10-17;contato@megaindustriame.com.br;R$ 239.768,39
+CLI0227;Uni Ferragens Ltda;41.379.772/3692-92;Vitória;ES;Saúde;23/09/2024;contato@uniferragensltda.com.br;R$ 69.807,57
+CLI0228;Ponte Suprimentos Ltda;66.210.388/6291-27;Rio de Janeiro;RJ;Saúde;09/06/2019;contato@pontesuprimentosltda.com.br;R$ 220.049,40
+CLI0229;Agro Máquinas Ltda;72.980.686/5086-37;Campinas;SP;Agronegócio;2022-12-06;contato@agromaquinasltda.com.br;
+CLI0230;Mega Distribuidora ME;47.314.986/4300-98;Ribeirão Preto;SP;Indústria;29/10/2024;contato@megadistribuidorame.com.br;R$ 6.762,54
+CLI0231;Sul Materiais ME;12.694.486/9594-63;Curitiba;pr;Agronegócio;30/05/2024;contato@sulmateriaisme.com.br;R$ 48.786,30
+CLI0232;Agro Máquinas ME;49.562.137/2138-65;Belo Horizonte;MG;Saúde;2019-08-02;contato@agromaquinasme.com.br;R$ 44.380,81
+CLI0233;Alfa Distribuidora S.A.;96114351906698;Florianópolis;SC;Construção;2019-08-24;;R$ 236.700,39
+CLI0234;Brasil Suprimentos ME;38430988392053;São Paulo;SP;Serviços;02/01/2019;contato@brasilsuprimentosme.com.br;R$ 244.033,25
+CLI0235;Vale Equipamentos ME;38.011.848/9554-39;Recife;PE;Varejo;06/02/2024;contato@valeequipamentosme.com.br;R$ 232.779,89
+CLI0236;Mega Comércio EIRELI;68.181.845/1848-94;Ribeirão Preto;SP;Serviços;2023-12-19;contato@megacomercioeireli.com.br;R$ 241.683,59
+CLI0237;Mega Suprimentos S.A.;57.790.714/1633-56;Goiânia;GO;Construção;2024-10-16;contato@megasuprimentossa.com.br;R$ 136.234,72
+CLI0238;Central Importadora EIRELI;65.182.755/3942-37;Campinas;SP;Serviços;28/03/2021;contato@centralimportadoraeireli.com.br;R$ 62.541,04
+CLI0239;Norte Importadora S.A.;95.211.179/0807-59;Manaus;am;Construção;09/07/2024;contato@norteimportadorasa.com.br;R$ 225.039,69
+CLI0240;Mega Atacado ME;84.639.208/6780-85;Ribeirão Preto;SP;Agronegócio;16/12/2020;contato@megaatacadome.com.br;R$ 117.013,03
+CLI0241;Ponte Comércio Ltda;36.915.594/2843-47;Fortaleza;CE ;Saúde;06/11/2022;;R$ 94.651,42
+CLI0242;Aço Equipamentos S.A.;55.647.292/9314-38;Porto Alegre;RS ;Agronegócio;10/04/2023;contato@acoequipamentossa.com.br;R$ 53.035,49
+CLI0243;Nova Suprimentos Ltda;67.288.574/4890-61;Ribeirão Preto;SP;Serviços;31/10/2020;;R$ 19.708,91
+CLI0244;Central Suprimentos Ltda;54558845061593;Florianópolis;SC;Saúde;15/12/2020;contato@centralsuprimentosltda.com.br;R$ 244.946,42
+CLI0245;Prime Materiais EIRELI;87.716.947/2256-99;Fortaleza;CE;Agronegócio;2019-10-20;contato@primemateriaiseireli.com.br;R$ 24.382,42
+CLI0246;Uni Equipamentos EIRELI;75.987.622/0234-13;Vitória;ES;Varejo;15/06/2023;contato@uniequipamentoseireli.com.br;R$ 30.237,28
+CLI0247;Delta Suprimentos Ltda;68.114.921/6433-47;São Paulo;sp;Serviços;2020-06-01;contato@deltasuprimentosltda.com.br;R$ 37.162,89
+CLI0248;Brasil Comércio Ltda;55.778.487/2829-97;Fortaleza;ce;Serviços;2023-11-17;contato@brasilcomercioltda.com.br;R$ 133.247,65
+CLI0249;Agro Atacado EIRELI;83.174.564/2400-82;Florianópolis;SC;Construção;20/03/2022;contatoagroatacadoeireli.com.br;R$ 119.953,50
+CLI0250;Prime Ferragens S.A.;08536866326634;Goiânia;GO;Indústria;2023-09-26;contato@primeferragenssa.com.br;R$ 158.204,14
+CLI0251;Tech Ferragens EIRELI;84.631.224/1797-49;Belo Horizonte;MG;Agronegócio;08/02/2021;contato@techferragenseireli.com.br;R$ 83.557,71
+CLI0252;Nova Comércio Ltda;14.427.031/2073-56;Ribeirão Preto;SP;Construção;03/08/2024;contato@novacomercioltda.com.br;R$ 249.501,04
+CLI0253;Delta Indústria Ltda;61.872.346/0136-73;Belo Horizonte;MG;Serviços;18/05/2019;contato@deltaindustrialtda.com.br;R$ 53.799,07
+CLI0254;Ômega Máquinas S.A.;64.520.881/4743-50;Florianópolis;SC;Serviços;11/06/2021;contato@omegamaquinassa.com.br;R$ 243.452,14
+CLI0255;Norte Equipamentos EIRELI;24.916.300/9792-51;São Paulo;SP;Varejo;2020-10-07;contato@norteequipamentoseireli.com.br;R$ 127.480,21
+CLI0256;Uni Materiais Ltda;52.812.735/8573-06;São Paulo;sp;Construção;2020-07-05;contato@unimateriaisltda.com.br;R$ 66.420,58
+CLI0257;Beta Suprimentos ME;48.739.285/5749-82;Salvador;ba;Indústria;2024-12-15;contato@betasuprimentosme.com.br;R$ 42.981,24
+CLI0258;Prime Atacado EIRELI;08.620.959/3518-63;Florianópolis;SC;Saúde;2024-07-30;contato@primeatacadoeireli.com.br;R$ 192.604,85
+CLI0259;Nova Ferragens EIRELI;65.118.102/2031-73;Curitiba;PR;Indústria;2019-05-11;contatonovaferragenseireli.com.br;R$ 144.897,98
+CLI0260;Serra Suprimentos EIRELI;53.910.371/7058-65;São Paulo;SP;Serviços;27/08/2019;contato@serrasuprimentoseireli.com.br;R$ 206.792,53
+CLI0261;Central Máquinas Ltda;14.138.113/8633-83;Brasília;df;Saúde;02/01/2021;contato@centralmaquinasltda.com.br;R$ 141.813,75
+CLI0262;Agro Equipamentos Ltda;95.761.228/6852-89;Goiânia;GO;Agronegócio;2022-12-14;contato@agroequipamentosltda.com.br;R$ 226.108,82
+CLI0263;Agro Materiais EIRELI;65.939.836/8457-76;Porto Alegre;RS;Indústria;22/05/2019;;R$ 245.824,34
+CLI0264;Prime Comércio EIRELI;35.048.889/9210-75;Rio de Janeiro;RJ;Varejo;20/07/2020;contato@primecomercioeireli.com.br;R$ 69.922,10
+CLI0265;Central Atacado Ltda;69.315.727/9194-09;Recife;PE ;Agronegócio;18/11/2019;contato@centralatacadoltda.com.br;R$ 196.129,87
+CLI0266;Ponte Materiais ME;13.906.048/0589-25;Porto Alegre;RS;Saúde;23/06/2021;contato@pontemateriaisme.com.br;R$ 42.533,38
+CLI0267;Serra Suprimentos Ltda;64.622.517/9086-41;Rio de Janeiro;RJ;Agronegócio;2024-08-17;contato@serrasuprimentosltda.com.br;R$ 111.450,32
+CLI0268;Agro Importadora ME;93.898.331/4659-11;Porto Alegre;RS ;Serviços;2023-08-22;contato@agroimportadorame.com.br;R$ 108.767,45
+CLI0269;Vale Ferragens Ltda;42.597.927/0335-21;Goiânia;GO;Indústria;12/08/2019;contato@valeferragensltda.com.br;R$ 64.546,84
+CLI0270;Uni Indústria EIRELI;51.477.053/8338-84;São Paulo;sp;Saúde;01/06/2024;contato@uniindustriaeireli.com.br;R$ 157.645,29
+CLI0271;Nova Comércio ME;80.420.439/4070-16;Recife;PE;Serviços;2022-01-16;contato@novacomerciome.com.br;R$ 167.430,50
+CLI0272;Vale Distribuidora Ltda;63.681.579/8123-87;Belo Horizonte;MG;Saúde;30/03/2019;contato@valedistribuidoraltda.com.br;R$ 14.739,34
+CLI0273;Alfa Materiais EIRELI;43.840.460/8432-56;Curitiba;PR;Serviços;16/07/2020;contato@alfamateriaiseireli.com.br;R$ 26.509,78
+CLI0274;Serra Máquinas S.A.;39.264.957/8232-98;Porto Alegre;RS ;Serviços;08/04/2021;contato@serramaquinassa.com.br;R$ 216.333,98
+CLI0275;Prime Máquinas S.A.;29.251.881/2520-56;Porto Alegre;RS;Agronegócio;27/05/2022;contato@primemaquinassa.com.br;R$ 113.536,10
+CLI0276;Central Indústria S.A.;22.099.499/9393-30;Campinas;SP;Construção;2019-11-22;contato@centralindustriasa.com.br;R$ 173.594,61
+CLI0277;Vale Indústria ME;72.233.060/4633-31;Florianópolis;SC ;Varejo;2023-12-05;contato@valeindustriame.com.br;R$ 217.446,61
+CLI0278;Norte Equipamentos ME;09.656.999/8808-17;Goiânia;GO;Agronegócio;23/06/2019;contato@norteequipamentosme.com.br;R$ 220.056,08
+CLI0279;Tech Comércio S.A.;76.447.264/9082-77;Belo Horizonte;MG;Indústria;12/08/2024;contato@techcomerciosa.com.br;R$ 32.727,04
+CLI0280;Serra Equipamentos EIRELI;02.793.714/5211-17;Florianópolis;sc;Serviços;26/01/2023;contato@serraequipamentoseireli.com.br;R$ 25.900,10
+CLI0281;Serra Máquinas ME;25.922.220/6447-42;São Paulo;SP;Indústria;22/06/2020;contato@serramaquinasme.com.br;R$ 240.306,30
+CLI0282;Alfa Ferragens EIRELI;77.780.973/3977-67;São Paulo;SP;Indústria;27/01/2019;contato@alfaferragenseireli.com.br;R$ 64.954,73
+CLI0283;Agro Atacado S.A.;22.050.209/9451-01;São Paulo;sp;Agronegócio;31/12/2020;contato@agroatacadosa.com.br;R$ 44.527,13
+CLI0284;Sol Ferragens EIRELI;01.455.616/8147-21;Vitória;ES;Serviços;29/01/2022;contato@solferragenseireli.com.br;R$ 85.656,09
+CLI0285;Ômega Ferragens Ltda;94695489952997;Florianópolis;SC;Saúde;31/07/2024;contato@omegaferragensltda.com.br;R$ 125.663,59
+CLI0286;Brasil Ferragens S.A.;43.010.713/9660-55;Brasília;DF;Saúde;19/05/2021;contato@brasilferragenssa.com.br;R$ 7.767,83
+CLI0287;Sul Atacado EIRELI;14.488.501/5569-90;Goiânia;GO;Varejo;05/03/2021;contato@sulatacadoeireli.com.br;R$ 85.976,13
+CLI0288;Ponte Suprimentos ME;02.727.857/6084-95;Goiânia;GO;Saúde;18/03/2019;contato@pontesuprimentosme.com.br;R$ 56.024,31
+CLI0289;Ponte Equipamentos S.A.;96.291.450/4617-35;Recife;PE;Agronegócio;24/05/2022;;R$ 57.954,27
+CLI0290;Prime Indústria Ltda;03.178.078/2357-84;Curitiba;PR;Construção;2020-08-09;contato@primeindustrialtda.com.br;R$ 193.522,94
+CLI0291;Sul Comércio ME;81.040.915/7018-40;Porto Alegre;rs;Saúde;2022-07-02;contato@sulcomerciome.com.br;R$ 161.518,46
+CLI0292;Sul Materiais S.A.;44.857.142/2410-98;Rio de Janeiro;RJ;Saúde;24/02/2020;contato@sulmateriaissa.com.br;R$ 55.611,46
+CLI0293;Central Indústria EIRELI;32.149.587/0207-01;Recife;PE;Agronegócio;09/08/2019;contato@centralindustriaeireli.com.br;R$ 26.099,30
+CLI0294;Serra Indústria ME;54.538.179/2171-74;Recife;PE;Serviços;21/03/2024;;R$ 120.283,74
+CLI0295;Norte Indústria EIRELI;56.255.770/1715-77;Vitória;ES;Varejo;02/03/2022;contato@norteindustriaeireli.com.br;R$ 193.145,67
+CLI0296;Tech Distribuidora ME;15.814.876/9639-38;Manaus;am;Varejo;29/05/2024;contato@techdistribuidorame.com.br;R$ 99.035,03
+CLI0297;Ponte Importadora ME;69.583.219/7199-75;Goiânia;GO ;Saúde;04/02/2020;;R$ 206.395,65
+CLI0298;Brasil Atacado ME;91.965.701/3290-22;Campinas;sp;Agronegócio;2024-12-16;contato@brasilatacadome.com.br;R$ 76.418,30
+CLI0299;Uni Ferragens ME;35.494.651/9098-62;Rio de Janeiro;RJ;Construção;13/09/2019;contato@uniferragensme.com.br;R$ 95.459,61
+CLI0300;Agro Comércio Ltda;85.140.369/6566-66;Brasília;DF;Saúde;15/05/2021;contato@agrocomercioltda.com.br;R$ 167.309,45
+CLI0301;SERRA IMPORTADORA EIRELI;46.785.445/8771-75;Goiânia;GO;Varejo;27/02/2023;contato@serraimportadoraeireli.com.br;R$ 81.665,89
+CLI0302;AGRO ATACADO EIRELI;83.174.564/2400-82;Florianópolis;SC;Construção;20/03/2022;contatoagroatacadoeireli.com.br;R$ 119.953,50
+CLI0303;TECH MATERIAIS S.A.;89226801824225;Vitória;ES;Serviços;12/07/2021;contato@techmateriaissa.com.br;R$ 89.775,66
+CLI0304;NOVA COMÉRCIO ME;80.420.439/4070-16;Recife;PE;Serviços;2022-01-16;contato@novacomerciome.com.br;R$ 167.430,50
+CLI0305;TECH COMÉRCIO EIRELI;12.411.824/4935-34;Vitória;ES;Saúde;24/06/2024;contato@techcomercioeireli.com.br;R$ 66.524,71
+CLI0306;SUL DISTRIBUIDORA LTDA;24.171.467/7418-62;Rio de Janeiro;RJ ;Construção;12/04/2023;contato@suldistribuidoraltda.com.br;R$ 95.503,41
+CLI0307;AÇO DISTRIBUIDORA ME;65512567468071;Curitiba;PR;Construção;30/10/2021;contato@acodistribuidorame.com.br;R$ 84.202,08
+CLI0308;PONTE DISTRIBUIDORA S.A.;37.788.925/5466-59;São Paulo;SP;Indústria;02/10/2022;contato@pontedistribuidorasa.com.br;R$ 21.148,40
+CLI0309;UNI ATACADO ME;83473597746886;Rio de Janeiro;RJ;Varejo;28/03/2021;contato@uniatacadome.com.br;R$ 201.308,51
+CLI0310;ÔMEGA MÁQUINAS S.A.;64.520.881/4743-50;Florianópolis;SC;Serviços;11/06/2021;contato@omegamaquinassa.com.br;R$ 243.452,14

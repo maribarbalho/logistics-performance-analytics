@@ -1,0 +1,1758 @@
+{
+  "versao": "1.0",
+  "gerado_em": "2026-07-01T03:00:00-03:00",
+  "produtos": [
+    {
+      "produto_id": "PRD0001",
+      "sku": "ELE-52090",
+      "descricao": "Notebook Básico",
+      "categoria": "Eletrônicos",
+      "peso_kg": 1.9,
+      "dimensoes": {
+        "altura_cm": 19,
+        "largura_cm": 64,
+        "comprimento_cm": 122
+      },
+      "preco_unitario": 2683.88,
+      "fragil": false,
+      "tags": [
+        "importado"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Uni",
+        "pais": "China"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0002",
+      "sku": "ELE-92983",
+      "descricao": "Micro-ondas Básico",
+      "categoria": "Eletrodomésticos",
+      "peso_kg": 3.12,
+      "dimensoes": {
+        "altura_cm": 114,
+        "largura_cm": 71,
+        "comprimento_cm": 130
+      },
+      "preco_unitario": 1572.63,
+      "fragil": true,
+      "tags": [
+        "premium",
+        "linha-industrial",
+        "importado"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Alfa",
+        "pais": null
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0003",
+      "sku": "FER-33569",
+      "descricao": "Furadeira Básico",
+      "categoria": "Ferramentas",
+      "peso_kg": 2.78,
+      "dimensoes": {
+        "altura_cm": 80,
+        "largura_cm": 24,
+        "comprimento_cm": 6
+      },
+      "preco_unitario": 422.57,
+      "fragil": false,
+      "tags": [],
+      "fornecedor": {
+        "nome": "Fornecedor Beta",
+        "pais": "EUA"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0004",
+      "sku": "AUT-80686",
+      "descricao": "Filtro de Óleo Básico",
+      "categoria": "Autopeças",
+      "peso_kg": 6.81,
+      "dimensoes": {
+        "altura_cm": 107,
+        "largura_cm": 94,
+        "comprimento_cm": 30
+      },
+      "preco_unitario": 330.4,
+      "fragil": false,
+      "tags": [
+        "promo"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Agro",
+        "pais": "Brasil"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0005",
+      "sku": "MOV-63254",
+      "descricao": "Cadeira Gamer Básico",
+      "categoria": "Móveis",
+      "peso_kg": 16.85,
+      "dimensoes": {
+        "altura_cm": 16,
+        "largura_cm": 7,
+        "comprimento_cm": 127
+      },
+      "preco_unitario": 1755.33,
+      "fragil": false,
+      "tags": [
+        "sazonal"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Sol",
+        "pais": "México"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0006",
+      "sku": "MAT-07726",
+      "descricao": "Resma Papel A4 Básico",
+      "categoria": "Material de Escritório",
+      "peso_kg": 2.3,
+      "dimensoes": null,
+      "preco_unitario": 319.72,
+      "fragil": false,
+      "tags": [],
+      "fornecedor": {
+        "nome": "Fornecedor Delta",
+        "pais": "EUA"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0007",
+      "sku": "ELE-58046",
+      "descricao": "Monitor Pro",
+      "categoria": "Eletrônicos",
+      "peso_kg": 4.59,
+      "dimensoes": null,
+      "preco_unitario": 3578.81,
+      "fragil": true,
+      "tags": [],
+      "fornecedor": {
+        "nome": "Fornecedor Uni",
+        "pais": "Alemanha"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0008",
+      "sku": "ELE-08501",
+      "descricao": "Ventilador Pro",
+      "categoria": "Eletrodomésticos",
+      "peso_kg": 6.98,
+      "dimensoes": {
+        "altura_cm": 64,
+        "largura_cm": 84,
+        "comprimento_cm": 15
+      },
+      "preco_unitario": 753.19,
+      "fragil": true,
+      "tags": [],
+      "fornecedor": {
+        "nome": "Fornecedor Agro",
+        "pais": null
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0009",
+      "sku": "FER-25381",
+      "descricao": "Serra Circular Pro",
+      "categoria": "Ferramentas",
+      "peso_kg": 6.19,
+      "dimensoes": {
+        "altura_cm": 99,
+        "largura_cm": 79,
+        "comprimento_cm": 58
+      },
+      "preco_unitario": 697.6,
+      "fragil": false,
+      "tags": [
+        "importado"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Vale",
+        "pais": "Alemanha"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0010",
+      "sku": "AUT-64015",
+      "descricao": "Pastilha de Freio Pro",
+      "categoria": "Autopeças",
+      "peso_kg": 4.96,
+      "dimensoes": null,
+      "preco_unitario": 584.95,
+      "fragil": false,
+      "tags": [
+        "sazonal",
+        "alto-giro",
+        "premium"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Prime",
+        "pais": "EUA"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0011",
+      "sku": "MOV-13711",
+      "descricao": "Mesa de Escritório Pro",
+      "categoria": "Móveis",
+      "peso_kg": 22.46,
+      "dimensoes": {
+        "altura_cm": 27,
+        "largura_cm": 41,
+        "comprimento_cm": 24
+      },
+      "preco_unitario": 496.07,
+      "fragil": false,
+      "tags": [
+        "promo",
+        "sazonal"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Nova",
+        "pais": "EUA"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0012",
+      "sku": "MAT-38046",
+      "descricao": "Grampeador Pro",
+      "categoria": "Material de Escritório",
+      "peso_kg": 11.64,
+      "dimensoes": {
+        "altura_cm": 74,
+        "largura_cm": 21,
+        "comprimento_cm": 126
+      },
+      "preco_unitario": 162.55,
+      "fragil": false,
+      "tags": [
+        "sazonal",
+        "premium",
+        "promo"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Prime",
+        "pais": "China"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0013",
+      "sku": "ELE-38569",
+      "descricao": "Teclado Industrial",
+      "categoria": "Eletrônicos",
+      "peso_kg": 2.25,
+      "dimensoes": {
+        "altura_cm": 87,
+        "largura_cm": 46,
+        "comprimento_cm": 129
+      },
+      "preco_unitario": 3682.14,
+      "fragil": true,
+      "tags": [
+        "linha-industrial",
+        "importado",
+        "alto-giro"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Nova",
+        "pais": "Alemanha"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0014",
+      "sku": "ELE-43754",
+      "descricao": "Aspirador Industrial",
+      "categoria": "Eletrodomésticos",
+      "peso_kg": 12.01,
+      "dimensoes": null,
+      "preco_unitario": 619.23,
+      "fragil": false,
+      "tags": [
+        "sazonal"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Agro",
+        "pais": "Alemanha"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0015",
+      "sku": "FER-22231",
+      "descricao": "Esmerilhadeira Industrial",
+      "categoria": "Ferramentas",
+      "peso_kg": 1.33,
+      "dimensoes": {
+        "altura_cm": 45,
+        "largura_cm": 78,
+        "comprimento_cm": 37
+      },
+      "preco_unitario": 441.53,
+      "fragil": false,
+      "tags": [
+        "novo",
+        "premium"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Agro",
+        "pais": null
+      },
+      "ativo": false
+    },
+    {
+      "produto_id": "PRD0016",
+      "sku": "AUT-55257",
+      "descricao": "Bateria Industrial",
+      "categoria": "Autopeças",
+      "peso_kg": 7.65,
+      "dimensoes": {
+        "altura_cm": 25,
+        "largura_cm": 73,
+        "comprimento_cm": 82
+      },
+      "preco_unitario": 107.01,
+      "fragil": false,
+      "tags": [],
+      "fornecedor": {
+        "nome": "Fornecedor Serra",
+        "pais": "EUA"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0017",
+      "sku": "MOV-75208",
+      "descricao": "Estante Industrial",
+      "categoria": "Móveis",
+      "peso_kg": 44.1,
+      "dimensoes": {
+        "altura_cm": 47,
+        "largura_cm": 87,
+        "comprimento_cm": 80
+      },
+      "preco_unitario": 1316.3,
+      "fragil": false,
+      "tags": [
+        "premium",
+        "alto-giro"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Nova",
+        "pais": "México"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0018",
+      "sku": "MAT-75170",
+      "descricao": "Pasta Arquivo Industrial",
+      "categoria": "Material de Escritório",
+      "peso_kg": 1.76,
+      "dimensoes": {
+        "altura_cm": 75,
+        "largura_cm": 19,
+        "comprimento_cm": 83
+      },
+      "preco_unitario": 20.91,
+      "fragil": false,
+      "tags": [
+        "linha-industrial"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Vale",
+        "pais": "Brasil"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0019",
+      "sku": "ELE-93983",
+      "descricao": "Roteador Básico",
+      "categoria": "Eletrônicos",
+      "peso_kg": 4.75,
+      "dimensoes": {
+        "altura_cm": 103,
+        "largura_cm": 40,
+        "comprimento_cm": 55
+      },
+      "preco_unitario": 428.53,
+      "fragil": true,
+      "tags": [
+        "sazonal",
+        "premium",
+        "promo"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Tech",
+        "pais": "EUA"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0020",
+      "sku": "ELE-59980",
+      "descricao": "Liquidificador Básico",
+      "categoria": "Eletrodomésticos",
+      "peso_kg": 13.81,
+      "dimensoes": {
+        "altura_cm": 51,
+        "largura_cm": 55,
+        "comprimento_cm": 42
+      },
+      "preco_unitario": 1331.34,
+      "fragil": true,
+      "tags": [
+        "importado",
+        "promo",
+        "premium"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Vale",
+        "pais": "Alemanha"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0021",
+      "sku": "FER-78137",
+      "descricao": "Jogo de Chaves Básico",
+      "categoria": "Ferramentas",
+      "peso_kg": 6.93,
+      "dimensoes": {
+        "altura_cm": 58,
+        "largura_cm": 61,
+        "comprimento_cm": 78
+      },
+      "preco_unitario": 214.31,
+      "fragil": false,
+      "tags": [
+        "sazonal",
+        "linha-industrial",
+        "novo"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Mega",
+        "pais": "México"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0022",
+      "sku": "AUT-34785",
+      "descricao": "Amortecedor Básico",
+      "categoria": "Autopeças",
+      "peso_kg": 1.11,
+      "dimensoes": {
+        "altura_cm": 80,
+        "largura_cm": 53,
+        "comprimento_cm": 27
+      },
+      "preco_unitario": 29.47,
+      "fragil": false,
+      "tags": [
+        "linha-industrial",
+        "novo"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Agro",
+        "pais": "EUA"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0023",
+      "sku": "MOV-23264",
+      "descricao": "Gaveteiro Básico",
+      "categoria": "Móveis",
+      "peso_kg": 28.49,
+      "dimensoes": {
+        "altura_cm": 10,
+        "largura_cm": 43,
+        "comprimento_cm": 82
+      },
+      "preco_unitario": 1361.73,
+      "fragil": false,
+      "tags": [
+        "novo",
+        "promo",
+        "sazonal"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Nova",
+        "pais": "Alemanha"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0024",
+      "sku": "MAT-71462",
+      "descricao": "Toner Básico",
+      "categoria": "Material de Escritório",
+      "peso_kg": 5.95,
+      "dimensoes": {
+        "altura_cm": 93,
+        "largura_cm": 87,
+        "comprimento_cm": 67
+      },
+      "preco_unitario": 22.51,
+      "fragil": false,
+      "tags": [
+        "linha-industrial",
+        "promo"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Uni",
+        "pais": null
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0025",
+      "sku": "ELE-79647",
+      "descricao": "Impressora Pro",
+      "categoria": "Eletrônicos",
+      "peso_kg": 5.85,
+      "dimensoes": {
+        "altura_cm": 109,
+        "largura_cm": 20,
+        "comprimento_cm": 100
+      },
+      "preco_unitario": 3221.4,
+      "fragil": true,
+      "tags": [
+        "novo",
+        "alto-giro"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Beta",
+        "pais": "China"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0026",
+      "sku": "ELE-25204",
+      "descricao": "Cafeteira Pro",
+      "categoria": "Eletrodomésticos",
+      "peso_kg": 6.7,
+      "dimensoes": {
+        "altura_cm": 86,
+        "largura_cm": 50,
+        "comprimento_cm": 17
+      },
+      "preco_unitario": 628.26,
+      "fragil": true,
+      "tags": [],
+      "fornecedor": {
+        "nome": "Fornecedor Tech",
+        "pais": "China"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0027",
+      "sku": "FER-21928",
+      "descricao": "Parafusadeira Pro",
+      "categoria": "Ferramentas",
+      "peso_kg": 3.58,
+      "dimensoes": {
+        "altura_cm": 45,
+        "largura_cm": 92,
+        "comprimento_cm": 82
+      },
+      "preco_unitario": 302.6,
+      "fragil": false,
+      "tags": [
+        "promo",
+        "alto-giro"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Mega",
+        "pais": "Alemanha"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0028",
+      "sku": "AUT-02845",
+      "descricao": "Vela de Ignição Pro",
+      "categoria": "Autopeças",
+      "peso_kg": 10.95,
+      "dimensoes": {
+        "altura_cm": 57,
+        "largura_cm": 48,
+        "comprimento_cm": 46
+      },
+      "preco_unitario": 94.13,
+      "fragil": false,
+      "tags": [
+        "alto-giro"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Norte",
+        "pais": "China"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0029",
+      "sku": "MOV-89888",
+      "descricao": "Armário Pro",
+      "categoria": "Móveis",
+      "peso_kg": 33.98,
+      "dimensoes": {
+        "altura_cm": 107,
+        "largura_cm": 19,
+        "comprimento_cm": 111
+      },
+      "preco_unitario": 1286.11,
+      "fragil": false,
+      "tags": [],
+      "fornecedor": {
+        "nome": "Fornecedor Ômega",
+        "pais": "China"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0030",
+      "sku": "MAT-75452",
+      "descricao": "Cadeira Giratória Pro",
+      "categoria": "Material de Escritório",
+      "peso_kg": 9.82,
+      "dimensoes": {
+        "altura_cm": 118,
+        "largura_cm": 81,
+        "comprimento_cm": 138
+      },
+      "preco_unitario": 345.98,
+      "fragil": false,
+      "tags": [
+        "novo",
+        "sazonal"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Prime",
+        "pais": "Brasil"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0031",
+      "sku": "ELE-13223",
+      "descricao": "Notebook Industrial",
+      "categoria": "Eletrônicos",
+      "peso_kg": 2.05,
+      "dimensoes": {
+        "altura_cm": 31,
+        "largura_cm": 21,
+        "comprimento_cm": 25
+      },
+      "preco_unitario": 2721.39,
+      "fragil": false,
+      "tags": [],
+      "fornecedor": {
+        "nome": "Fornecedor Delta",
+        "pais": "Brasil"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0032",
+      "sku": "ELE-60310",
+      "descricao": "Micro-ondas Industrial",
+      "categoria": "Eletrodomésticos",
+      "peso_kg": 12.31,
+      "dimensoes": {
+        "altura_cm": 70,
+        "largura_cm": 80,
+        "comprimento_cm": 20
+      },
+      "preco_unitario": 923.99,
+      "fragil": false,
+      "tags": [],
+      "fornecedor": {
+        "nome": "Fornecedor Delta",
+        "pais": "Alemanha"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0033",
+      "sku": "FER-11939",
+      "descricao": "Furadeira Industrial",
+      "categoria": "Ferramentas",
+      "peso_kg": 8.21,
+      "dimensoes": {
+        "altura_cm": 28,
+        "largura_cm": 90,
+        "comprimento_cm": 94
+      },
+      "preco_unitario": 103.99,
+      "fragil": false,
+      "tags": [
+        "premium"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Central",
+        "pais": "México"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0034",
+      "sku": "AUT-28938",
+      "descricao": "Filtro de Óleo Industrial",
+      "categoria": "Autopeças",
+      "peso_kg": 8.07,
+      "dimensoes": {
+        "altura_cm": 17,
+        "largura_cm": 79,
+        "comprimento_cm": 8
+      },
+      "preco_unitario": 381.97,
+      "fragil": false,
+      "tags": [
+        "importado"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Brasil",
+        "pais": "México"
+      },
+      "ativo": false
+    },
+    {
+      "produto_id": "PRD0035",
+      "sku": "MOV-13875",
+      "descricao": "Cadeira Gamer Industrial",
+      "categoria": "Móveis",
+      "peso_kg": 33.83,
+      "dimensoes": {
+        "altura_cm": 28,
+        "largura_cm": 61,
+        "comprimento_cm": 32
+      },
+      "preco_unitario": 656.91,
+      "fragil": false,
+      "tags": [
+        "linha-industrial",
+        "premium"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Sul",
+        "pais": "México"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0036",
+      "sku": "MAT-15171",
+      "descricao": "Resma Papel A4 Industrial",
+      "categoria": "Material de Escritório",
+      "peso_kg": 6.28,
+      "dimensoes": {
+        "altura_cm": 68,
+        "largura_cm": 51,
+        "comprimento_cm": 78
+      },
+      "preco_unitario": 255.14,
+      "fragil": false,
+      "tags": [],
+      "fornecedor": {
+        "nome": "Fornecedor Delta",
+        "pais": "Alemanha"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0037",
+      "sku": "ELE-64794",
+      "descricao": "Monitor Básico",
+      "categoria": "Eletrônicos",
+      "peso_kg": 4.22,
+      "dimensoes": {
+        "altura_cm": 112,
+        "largura_cm": 61,
+        "comprimento_cm": 62
+      },
+      "preco_unitario": 3457.32,
+      "fragil": true,
+      "tags": [
+        "novo",
+        "promo",
+        "linha-industrial"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Vale",
+        "pais": "China"
+      },
+      "ativo": false
+    },
+    {
+      "produto_id": "PRD0038",
+      "sku": "ELE-71678",
+      "descricao": "Ventilador Básico",
+      "categoria": "Eletrodomésticos",
+      "peso_kg": 10.56,
+      "dimensoes": {
+        "altura_cm": 15,
+        "largura_cm": 20,
+        "comprimento_cm": 41
+      },
+      "preco_unitario": 801.44,
+      "fragil": true,
+      "tags": [],
+      "fornecedor": {
+        "nome": "Fornecedor Brasil",
+        "pais": "Brasil"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0039",
+      "sku": "FER-35396",
+      "descricao": "Serra Circular Básico",
+      "categoria": "Ferramentas",
+      "peso_kg": 1.98,
+      "dimensoes": {
+        "altura_cm": 112,
+        "largura_cm": 59,
+        "comprimento_cm": 132
+      },
+      "preco_unitario": 308.39,
+      "fragil": false,
+      "tags": [
+        "premium",
+        "sazonal"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Serra",
+        "pais": "Alemanha"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0040",
+      "sku": "AUT-96784",
+      "descricao": "Pastilha de Freio Básico",
+      "categoria": "Autopeças",
+      "peso_kg": 2.23,
+      "dimensoes": {
+        "altura_cm": 63,
+        "largura_cm": 18,
+        "comprimento_cm": 36
+      },
+      "preco_unitario": 194.22,
+      "fragil": false,
+      "tags": [
+        "novo",
+        "sazonal",
+        "premium"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Alfa",
+        "pais": "Brasil"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0041",
+      "sku": "MOV-17026",
+      "descricao": "Mesa de Escritório Básico",
+      "categoria": "Móveis",
+      "peso_kg": 30.37,
+      "dimensoes": {
+        "altura_cm": 46,
+        "largura_cm": 24,
+        "comprimento_cm": 82
+      },
+      "preco_unitario": 1649.43,
+      "fragil": false,
+      "tags": [],
+      "fornecedor": {
+        "nome": "Fornecedor Delta",
+        "pais": null
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0042",
+      "sku": "MAT-77347",
+      "descricao": "Grampeador Básico",
+      "categoria": "Material de Escritório",
+      "peso_kg": 5.93,
+      "dimensoes": {
+        "altura_cm": 38,
+        "largura_cm": 74,
+        "comprimento_cm": 92
+      },
+      "preco_unitario": 366.17,
+      "fragil": false,
+      "tags": [],
+      "fornecedor": {
+        "nome": "Fornecedor Beta",
+        "pais": "EUA"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0043",
+      "sku": "ELE-16756",
+      "descricao": "Teclado Pro",
+      "categoria": "Eletrônicos",
+      "peso_kg": 2.82,
+      "dimensoes": {
+        "altura_cm": 9,
+        "largura_cm": 9,
+        "comprimento_cm": 50
+      },
+      "preco_unitario": 3473.0,
+      "fragil": false,
+      "tags": [
+        "sazonal",
+        "novo"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Aço",
+        "pais": "EUA"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0044",
+      "sku": "ELE-67197",
+      "descricao": "Aspirador Pro",
+      "categoria": "Eletrodomésticos",
+      "peso_kg": 10.58,
+      "dimensoes": {
+        "altura_cm": 92,
+        "largura_cm": 74,
+        "comprimento_cm": 125
+      },
+      "preco_unitario": 935.25,
+      "fragil": false,
+      "tags": [],
+      "fornecedor": {
+        "nome": "Fornecedor Serra",
+        "pais": "Alemanha"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0045",
+      "sku": "FER-69545",
+      "descricao": "Esmerilhadeira Pro",
+      "categoria": "Ferramentas",
+      "peso_kg": 1.49,
+      "dimensoes": {
+        "altura_cm": 80,
+        "largura_cm": 10,
+        "comprimento_cm": 37
+      },
+      "preco_unitario": 766.29,
+      "fragil": false,
+      "tags": [
+        "premium",
+        "sazonal"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Mega",
+        "pais": "Brasil"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0046",
+      "sku": "AUT-56165",
+      "descricao": "Bateria Pro",
+      "categoria": "Autopeças",
+      "peso_kg": 13.89,
+      "dimensoes": {
+        "altura_cm": 57,
+        "largura_cm": 49,
+        "comprimento_cm": 19
+      },
+      "preco_unitario": 471.34,
+      "fragil": false,
+      "tags": [
+        "novo"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Prime",
+        "pais": "México"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0047",
+      "sku": "MOV-14152",
+      "descricao": "Estante Pro",
+      "categoria": "Móveis",
+      "peso_kg": 8.73,
+      "dimensoes": {
+        "altura_cm": 46,
+        "largura_cm": 9,
+        "comprimento_cm": 122
+      },
+      "preco_unitario": 1729.98,
+      "fragil": false,
+      "tags": [
+        "alto-giro",
+        "premium",
+        "linha-industrial"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Central",
+        "pais": "Brasil"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0048",
+      "sku": "MAT-90569",
+      "descricao": "Pasta Arquivo Pro",
+      "categoria": "Material de Escritório",
+      "peso_kg": 4.74,
+      "dimensoes": {
+        "altura_cm": 78,
+        "largura_cm": 17,
+        "comprimento_cm": 130
+      },
+      "preco_unitario": 54.02,
+      "fragil": false,
+      "tags": [
+        "importado"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Aço",
+        "pais": "México"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0049",
+      "sku": "ELE-52945",
+      "descricao": "Roteador Industrial",
+      "categoria": "Eletrônicos",
+      "peso_kg": 5.83,
+      "dimensoes": {
+        "altura_cm": 30,
+        "largura_cm": 68,
+        "comprimento_cm": 24
+      },
+      "preco_unitario": 5090.17,
+      "fragil": true,
+      "tags": [
+        "importado",
+        "promo"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Prime",
+        "pais": "México"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0050",
+      "sku": "ELE-39191",
+      "descricao": "Liquidificador Industrial",
+      "categoria": "Eletrodomésticos",
+      "peso_kg": 9.69,
+      "dimensoes": {
+        "altura_cm": 39,
+        "largura_cm": 13,
+        "comprimento_cm": 150
+      },
+      "preco_unitario": 1471.96,
+      "fragil": true,
+      "tags": [
+        "importado"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Delta",
+        "pais": null
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0051",
+      "sku": "FER-84685",
+      "descricao": "Jogo de Chaves Industrial",
+      "categoria": "Ferramentas",
+      "peso_kg": 2.6,
+      "dimensoes": {
+        "altura_cm": 56,
+        "largura_cm": 37,
+        "comprimento_cm": 136
+      },
+      "preco_unitario": 451.65,
+      "fragil": false,
+      "tags": [
+        "promo"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Tech",
+        "pais": "China"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0052",
+      "sku": "AUT-37489",
+      "descricao": "Amortecedor Industrial",
+      "categoria": "Autopeças",
+      "peso_kg": 11.97,
+      "dimensoes": {
+        "altura_cm": 60,
+        "largura_cm": 77,
+        "comprimento_cm": 20
+      },
+      "preco_unitario": 377.53,
+      "fragil": false,
+      "tags": [
+        "linha-industrial",
+        "novo"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Norte",
+        "pais": "China"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0053",
+      "sku": "MOV-46651",
+      "descricao": "Gaveteiro Industrial",
+      "categoria": "Móveis",
+      "peso_kg": 31.46,
+      "dimensoes": {
+        "altura_cm": 113,
+        "largura_cm": 57,
+        "comprimento_cm": 73
+      },
+      "preco_unitario": 2103.35,
+      "fragil": false,
+      "tags": [
+        "importado"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Uni",
+        "pais": "China"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0054",
+      "sku": "MAT-12303",
+      "descricao": "Toner Industrial",
+      "categoria": "Material de Escritório",
+      "peso_kg": 9.58,
+      "dimensoes": {
+        "altura_cm": 44,
+        "largura_cm": 64,
+        "comprimento_cm": 129
+      },
+      "preco_unitario": 256.32,
+      "fragil": false,
+      "tags": [
+        "linha-industrial",
+        "sazonal",
+        "promo"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Sul",
+        "pais": "China"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0055",
+      "sku": "ELE-04482",
+      "descricao": "Impressora Básico",
+      "categoria": "Eletrônicos",
+      "peso_kg": 3.97,
+      "dimensoes": {
+        "altura_cm": 10,
+        "largura_cm": 97,
+        "comprimento_cm": 129
+      },
+      "preco_unitario": 4758.73,
+      "fragil": true,
+      "tags": [],
+      "fornecedor": {
+        "nome": "Fornecedor Ponte",
+        "pais": "México"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0056",
+      "sku": "ELE-16516",
+      "descricao": "Cafeteira Básico",
+      "categoria": "Eletrodomésticos",
+      "peso_kg": 14.26,
+      "dimensoes": {
+        "altura_cm": 97,
+        "largura_cm": 22,
+        "comprimento_cm": 65
+      },
+      "preco_unitario": 334.69,
+      "fragil": false,
+      "tags": [],
+      "fornecedor": {
+        "nome": "Fornecedor Tech",
+        "pais": null
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0057",
+      "sku": "FER-84713",
+      "descricao": "Parafusadeira Básico",
+      "categoria": "Ferramentas",
+      "peso_kg": 5.8,
+      "dimensoes": {
+        "altura_cm": 103,
+        "largura_cm": 45,
+        "comprimento_cm": 89
+      },
+      "preco_unitario": 762.51,
+      "fragil": false,
+      "tags": [
+        "premium",
+        "sazonal",
+        "novo"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Mar",
+        "pais": "China"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0058",
+      "sku": "AUT-23476",
+      "descricao": "Vela de Ignição Básico",
+      "categoria": "Autopeças",
+      "peso_kg": 3.71,
+      "dimensoes": {
+        "altura_cm": 80,
+        "largura_cm": 12,
+        "comprimento_cm": 130
+      },
+      "preco_unitario": 385.09,
+      "fragil": false,
+      "tags": [],
+      "fornecedor": {
+        "nome": "Fornecedor Ponte",
+        "pais": "México"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0059",
+      "sku": "MOV-34257",
+      "descricao": "Armário Básico",
+      "categoria": "Móveis",
+      "peso_kg": 34.48,
+      "dimensoes": {
+        "altura_cm": 110,
+        "largura_cm": 44,
+        "comprimento_cm": 10
+      },
+      "preco_unitario": 1702.14,
+      "fragil": false,
+      "tags": [],
+      "fornecedor": {
+        "nome": "Fornecedor Beta",
+        "pais": null
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0060",
+      "sku": "MAT-34864",
+      "descricao": "Cadeira Giratória Básico",
+      "categoria": "Material de Escritório",
+      "peso_kg": 7.7,
+      "dimensoes": {
+        "altura_cm": 94,
+        "largura_cm": 51,
+        "comprimento_cm": 36
+      },
+      "preco_unitario": 245.36,
+      "fragil": false,
+      "tags": [
+        "premium"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Sol",
+        "pais": "EUA"
+      },
+      "ativo": false
+    },
+    {
+      "produto_id": "PRD0061",
+      "sku": "ELE-64413",
+      "descricao": "Notebook Pro",
+      "categoria": "Eletrônicos",
+      "peso_kg": 2.0,
+      "dimensoes": {
+        "altura_cm": 115,
+        "largura_cm": 25,
+        "comprimento_cm": 117
+      },
+      "preco_unitario": 3898.71,
+      "fragil": false,
+      "tags": [
+        "premium",
+        "promo",
+        "importado"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Delta",
+        "pais": "EUA"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0062",
+      "sku": "ELE-65612",
+      "descricao": "Micro-ondas Pro",
+      "categoria": "Eletrodomésticos",
+      "peso_kg": 11.08,
+      "dimensoes": {
+        "altura_cm": 69,
+        "largura_cm": 13,
+        "comprimento_cm": 95
+      },
+      "preco_unitario": 844.44,
+      "fragil": false,
+      "tags": [
+        "linha-industrial",
+        "sazonal"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Alfa",
+        "pais": "Brasil"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0063",
+      "sku": "FER-27206",
+      "descricao": "Furadeira Pro",
+      "categoria": "Ferramentas",
+      "peso_kg": 2.6,
+      "dimensoes": {
+        "altura_cm": 44,
+        "largura_cm": 45,
+        "comprimento_cm": 26
+      },
+      "preco_unitario": 170.88,
+      "fragil": false,
+      "tags": [
+        "alto-giro"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Nova",
+        "pais": "México"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0064",
+      "sku": "AUT-57724",
+      "descricao": "Filtro de Óleo Pro",
+      "categoria": "Autopeças",
+      "peso_kg": 2.59,
+      "dimensoes": {
+        "altura_cm": 80,
+        "largura_cm": 46,
+        "comprimento_cm": 77
+      },
+      "preco_unitario": 159.1,
+      "fragil": false,
+      "tags": [
+        "importado",
+        "novo",
+        "linha-industrial"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Serra",
+        "pais": "México"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0065",
+      "sku": "MOV-08931",
+      "descricao": "Cadeira Gamer Pro",
+      "categoria": "Móveis",
+      "peso_kg": 44.04,
+      "dimensoes": {
+        "altura_cm": 30,
+        "largura_cm": 38,
+        "comprimento_cm": 48
+      },
+      "preco_unitario": 362.01,
+      "fragil": false,
+      "tags": [
+        "alto-giro",
+        "importado",
+        "novo"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Delta",
+        "pais": "Alemanha"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0066",
+      "sku": "MAT-91086",
+      "descricao": "Resma Papel A4 Pro",
+      "categoria": "Material de Escritório",
+      "peso_kg": 9.3,
+      "dimensoes": null,
+      "preco_unitario": 62.15,
+      "fragil": false,
+      "tags": [
+        "novo"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Central",
+        "pais": "Alemanha"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0067",
+      "sku": "ELE-62639",
+      "descricao": "Monitor Industrial",
+      "categoria": "Eletrônicos",
+      "peso_kg": 1.53,
+      "dimensoes": {
+        "altura_cm": 110,
+        "largura_cm": 41,
+        "comprimento_cm": 53
+      },
+      "preco_unitario": 2684.49,
+      "fragil": true,
+      "tags": [
+        "promo"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Prime",
+        "pais": "Alemanha"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0068",
+      "sku": "ELE-73597",
+      "descricao": "Ventilador Industrial",
+      "categoria": "Eletrodomésticos",
+      "peso_kg": 3.11,
+      "dimensoes": {
+        "altura_cm": 65,
+        "largura_cm": 22,
+        "comprimento_cm": 87
+      },
+      "preco_unitario": 1757.76,
+      "fragil": true,
+      "tags": [
+        "sazonal"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Serra",
+        "pais": null
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0069",
+      "sku": "FER-94118",
+      "descricao": "Serra Circular Industrial",
+      "categoria": "Ferramentas",
+      "peso_kg": 1.47,
+      "dimensoes": {
+        "altura_cm": 47,
+        "largura_cm": 35,
+        "comprimento_cm": 125
+      },
+      "preco_unitario": 824.75,
+      "fragil": false,
+      "tags": [],
+      "fornecedor": {
+        "nome": "Fornecedor Alfa",
+        "pais": "Alemanha"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0070",
+      "sku": "AUT-64652",
+      "descricao": "Pastilha de Freio Industrial",
+      "categoria": "Autopeças",
+      "peso_kg": 13.56,
+      "dimensoes": {
+        "altura_cm": 76,
+        "largura_cm": 10,
+        "comprimento_cm": 50
+      },
+      "preco_unitario": 200.7,
+      "fragil": false,
+      "tags": [
+        "importado",
+        "linha-industrial",
+        "novo"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Delta",
+        "pais": "Alemanha"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0071",
+      "sku": "MOV-62415",
+      "descricao": "Mesa de Escritório Industrial",
+      "categoria": "Móveis",
+      "peso_kg": 9.63,
+      "dimensoes": null,
+      "preco_unitario": 1932.6,
+      "fragil": false,
+      "tags": [
+        "importado",
+        "premium",
+        "alto-giro"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Central",
+        "pais": "México"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0072",
+      "sku": "MAT-25728",
+      "descricao": "Grampeador Industrial",
+      "categoria": "Material de Escritório",
+      "peso_kg": 10.25,
+      "dimensoes": {
+        "altura_cm": 89,
+        "largura_cm": 86,
+        "comprimento_cm": 117
+      },
+      "preco_unitario": 33.42,
+      "fragil": false,
+      "tags": [
+        "promo"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Norte",
+        "pais": "China"
+      },
+      "ativo": false
+    },
+    {
+      "produto_id": "PRD0073",
+      "sku": "ELE-42761",
+      "descricao": "Teclado Básico",
+      "categoria": "Eletrônicos",
+      "peso_kg": 5.97,
+      "dimensoes": {
+        "altura_cm": 68,
+        "largura_cm": 10,
+        "comprimento_cm": 118
+      },
+      "preco_unitario": 2332.16,
+      "fragil": false,
+      "tags": [
+        "linha-industrial",
+        "premium",
+        "promo"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Nova",
+        "pais": "Brasil"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0074",
+      "sku": "ELE-34228",
+      "descricao": "Aspirador Básico",
+      "categoria": "Eletrodomésticos",
+      "peso_kg": 12.69,
+      "dimensoes": {
+        "altura_cm": 77,
+        "largura_cm": 89,
+        "comprimento_cm": 59
+      },
+      "preco_unitario": 1112.85,
+      "fragil": false,
+      "tags": [
+        "linha-industrial"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Delta",
+        "pais": "China"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0075",
+      "sku": "FER-15041",
+      "descricao": "Esmerilhadeira Básico",
+      "categoria": "Ferramentas",
+      "peso_kg": 4.15,
+      "dimensoes": {
+        "altura_cm": 80,
+        "largura_cm": 18,
+        "comprimento_cm": 87
+      },
+      "preco_unitario": 206.1,
+      "fragil": false,
+      "tags": [],
+      "fornecedor": {
+        "nome": "Fornecedor Sol",
+        "pais": null
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0076",
+      "sku": "AUT-74905",
+      "descricao": "Bateria Básico",
+      "categoria": "Autopeças",
+      "peso_kg": 13.58,
+      "dimensoes": {
+        "altura_cm": 88,
+        "largura_cm": 84,
+        "comprimento_cm": 120
+      },
+      "preco_unitario": 244.32,
+      "fragil": false,
+      "tags": [
+        "novo"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Beta",
+        "pais": null
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0077",
+      "sku": "MOV-01896",
+      "descricao": "Estante Básico",
+      "categoria": "Móveis",
+      "peso_kg": 11.42,
+      "dimensoes": {
+        "altura_cm": 37,
+        "largura_cm": 27,
+        "comprimento_cm": 66
+      },
+      "preco_unitario": 2421.36,
+      "fragil": false,
+      "tags": [
+        "promo",
+        "premium",
+        "novo"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Brasil",
+        "pais": "EUA"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0078",
+      "sku": "MAT-42147",
+      "descricao": "Pasta Arquivo Básico",
+      "categoria": "Material de Escritório",
+      "peso_kg": 9.63,
+      "dimensoes": {
+        "altura_cm": 99,
+        "largura_cm": 44,
+        "comprimento_cm": 38
+      },
+      "preco_unitario": 167.98,
+      "fragil": false,
+      "tags": [],
+      "fornecedor": {
+        "nome": "Fornecedor Vale",
+        "pais": "México"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0079",
+      "sku": "ELE-76749",
+      "descricao": "Roteador Pro",
+      "categoria": "Eletrônicos",
+      "peso_kg": 3.72,
+      "dimensoes": {
+        "altura_cm": 16,
+        "largura_cm": 59,
+        "comprimento_cm": 99
+      },
+      "preco_unitario": 3799.05,
+      "fragil": true,
+      "tags": [
+        "promo",
+        "premium",
+        "alto-giro"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Ponte",
+        "pais": "EUA"
+      },
+      "ativo": true
+    },
+    {
+      "produto_id": "PRD0080",
+      "sku": "ELE-27881",
+      "descricao": "Liquidificador Pro",
+      "categoria": "Eletrodomésticos",
+      "peso_kg": 5.78,
+      "dimensoes": {
+        "altura_cm": 60,
+        "largura_cm": 15,
+        "comprimento_cm": 127
+      },
+      "preco_unitario": 645.65,
+      "fragil": false,
+      "tags": [
+        "premium",
+        "novo"
+      ],
+      "fornecedor": {
+        "nome": "Fornecedor Tech",
+        "pais": "EUA"
+      },
+      "ativo": true
+    }
+  ]
+}
