@@ -16,8 +16,8 @@
 4. **Modelar:** relacionar dimensões e fatos por chaves apropriadas. Conferir unicidade e cardinalidade antes de ativar filtros.
 5. **Criar medidas DAX:** usar medidas para soma, contagem distinta, percentuais e médias; checar denominadores e contextos de filtro.
 6. **Montar relatório:** criar páginas executivas, análises detalhadas, segmentações e navegação.
-7. **Validar:** verificar resultados dos cartões versus tabelas, filtros, valores ausentes e comportamento de gráficos.
-8. **Publicar:** enviar o relatório ao Power BI Service e configurar o compartilhamento conforme a política da conta e da organização.
+7. **Validar:** verificar resultados dos cartões versus tabelas, filtros, valores ausentes e comportamento de gráficos. Para uma validação reproduzível, executar consultas DAX no modelo (Exibição de consulta DAX ou motor local do Desktop) e comparar com cálculos independentes, como descrito em [Homologação dos dados](homologacao-dos-dados.md).
+8. **Publicar:** enviar o relatório ao Power BI Service e configurar o compartilhamento conforme a política da conta e da organização. Ao republicar no mesmo workspace, escolher **Substituir**: o link de "Publicar na web" continua o mesmo (a atualização pode levar até cerca de 1 hora para aparecer no link público).
 
 ## Observações sobre a implementação
 
