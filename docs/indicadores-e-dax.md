@@ -5,6 +5,7 @@
 - Os valores abaixo são **referências sem filtros** observadas na etapa de construção/validação do projeto. Podem variar após seleção de período, produto ou transportadora.
 - Nome de medida, formato e condição de elegibilidade importam tanto quanto o valor.
 - Os exemplos de DAX são **referências didáticas**; conferir correspondência de nomes de campos e contexto de filtros no PBIX.
+- Os valores das tabelas abaixo foram **conferidos por consultas DAX no modelo** na [homologação dos dados](homologacao-dos-dados.md).
 
 ## Operação logística
 
@@ -109,10 +110,32 @@ RETURN
     DIVIDE(Promotores - Detratores, [Chamados Avaliados]) * 100
 ```
 
+**Nota da homologação:** a medida `NPS Atendimento` publicada conta linhas avaliadas (`COUNTROWS`), não IDs distintos. Como a nota fica registrada em uma única linha por chamado, as duas versões produzem o mesmo resultado (**−46,4**). A versão por IDs distintos acima é a mais robusta caso a estrutura de interações mude.
+
+## Indicadores comparativos dos tooltips
+
+As medidas da pasta **Tooltips** reutilizam as medidas acima e acrescentam comparações:
+
+| Medida | Regra |
+|---|---|
+| `% No Prazo (Geral)` | Pontualidade sem o filtro de transportadora (mantém período, UF etc.) |
+| `Dif. Pontualidade vs Geral (p.p.)` | (% da transportadora − % geral) × 100 |
+| `Ranking Pontualidade` | Posição entre transportadoras com entregas avaliadas |
+| `% Atrasadas (Nacional)` | % de atraso sem filtros geográficos |
+| `Entregas Concluídas (Mês Anterior)` | `DATEADD` de −1 mês, removendo os filtros de calendário |
+| `Mês Parcial` | Verdadeiro quando a base termina antes do fim do mês analisado |
+| `Custo Manutenção por Veículo` | Custo de manutenção ÷ veículos da frota |
+| `Dif. NPS vs Geral` | NPS do motivo/canal − NPS geral do atendimento |
+| `% do Total de Entregas` | Participação de cada status no total |
+
+Detalhes, regras de cor e código: [Tooltips de detalhamento](tooltips.md).
+
 ## Boas práticas para comparação
 
 1. Compare taxa e volume lado a lado (uma taxa elevada em pequena amostra é instável).
 2. Valide que totais por categoria/transportadora correspondam aos cartões sob os mesmos filtros.
 3. Trate indicadores de cadastro (veículos ativos) separadamente de indicadores históricos (entregas mensais).
 4. Confirme a data utilizada para segmentar cada fato.
+4. Some contagens antes de dividir; nunca faça média de percentuais.
+4. Sinalize meses incompletos antes de compará-los com meses fechados.
 5. Evite usar o nome “NPS dos clientes” para avaliações coletadas apenas dos atendimentos.

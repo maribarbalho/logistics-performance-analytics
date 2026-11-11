@@ -30,6 +30,18 @@ Este case usa **dados sintéticos** para fins educacionais e de portfólio. Erro
 
 **Melhoria recomendada:** separar cabeçalhos de chamados das interações em duas tabelas distintas.
 
+## Achados da homologação
+
+A [homologação dos dados](homologacao-dos-dados.md) confirmou os indicadores e identificou características da base que afetam a leitura:
+
+- **Rodonorte** está cadastrada como inativa, mas tem 723 entregas (o maior volume).
+- **Julho/2026 é parcial** (dados até 10/07/2026); os tooltips sinalizam o mês e não fazem comparações com ele.
+- **244 entregas sem data de entrega** saem da análise quando há filtro de período (o total cai de 5.500 para 5.256).
+- **40 entregas "ENTREGUE" sem data de entrega** ficam fora da pontualidade.
+- **12 entregas com data de entrega anterior à saída** ficam fora do tempo médio, mas contam na pontualidade.
+- **60 entregas com motorista sem cadastro.**
+- **`d_transportadora` com 55 linhas para 8 transportadoras**, gerando relação muitos-para-muitos.
+
 ## Granularidade e significado dos indicadores
 
 - O denominador de pontualidade inclui somente entregas concluídas e com informações suficientes para comparar datas.
@@ -45,11 +57,16 @@ Este case usa **dados sintéticos** para fins educacionais e de portfólio. Erro
 - [x] Corrigir importação decimal de frete e geolocalização.
 - [x] Corrigir taxa de avaliação do SAC utilizando chamados distintos.
 - [x] Publicar relatório interativo no Power BI.
+- [x] Homologar indicadores e medidas com consultas DAX (54 verificações + 23 de regressão).
+- [x] Relacionar os chamados do SAC ao calendário.
+- [x] Sinalizar mês parcial nos tooltips.
+- [x] Converter o projeto para PBIP/PBIR.
 - [ ] Conferir 100% das coordenadas e trajetórias em fonte geográfica apropriada.
 - [ ] Auditar a medida de peso transportado.
-- [ ] Revisar dimensões com IDs duplicados e caminhos ambíguos no modelo.
+- [ ] Revisar dimensões com IDs duplicados e caminhos ambíguos no modelo (`d_transportadora`).
 - [ ] Separar interações de SAC em fato próprio.
-- [ ] Adicionar evidências visuais e arquivos de projeto versionáveis ao repositório, quando disponíveis.
+- [ ] Decidir o tratamento da Rodonorte, do mês parcial no gráfico principal, das entregas sem data e dos motoristas sem cadastro.
+- [ ] Adicionar capturas de tela e o projeto PBIP ao repositório.
 
 ## Privacidade e publicação
 

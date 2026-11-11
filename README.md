@@ -33,6 +33,16 @@ O painel foi estruturado para responder questões como:
 | **Produtos** | Movimentações, categorias, frete unitário e devoluções |
 | **Experiência do Cliente** | SAC, motivos de contato, canais, tempo de encerramento e NPS |
 
+O relatório tem **tema claro e escuro**, navegação personalizada e **tooltips de detalhamento** nos principais gráficos.
+
+## Novidades da versão atual
+
+- **7 tooltips de detalhamento** (transportadora, UF, mês, CD, produto/categoria, tipo de veículo e SAC), em tema claro e escuro, conectados a 38 visuais. Cada um mostra indicadores complementares, comparação com a média, minigráfico de tendência e uma frase de insight colorida por regra de negócio. → [Tooltips](docs/tooltips.md)
+- **Homologação dos dados com consultas DAX** executadas no modelo: 54 verificações cruzadas e 23 de regressão, todas aprovadas, além de 8 achados documentados sobre a base de origem. → [Homologação](docs/homologacao-dos-dados.md)
+- **Relacionamento do SAC com o calendário**, para que o filtro de período passe a filtrar os chamados.
+- **Tratamento de mês parcial**: julho/2026 (dados até 10/07) é sinalizado e não gera comparações enganosas.
+- **Projeto convertido para PBIP/PBIR**, com medidas e páginas em arquivos de texto versionáveis.
+
 ## Indicadores de referência
 
 | KPI | Valor na base simulada |
@@ -57,6 +67,9 @@ O painel foi estruturado para responder questões como:
 - **Modelagem dimensional:** integração de fatos e dimensões, com atenção a relacionamentos e granularidade.
 - **Análise geográfica:** visualização e validação inicial de coordenadas de eventos.
 - **Data storytelling:** transformação dos indicadores em perguntas e perspectivas de negócio.
+- **UX/UI em BI:** tooltips de página com layout padronizado, hierarquia visual e formatação condicional por medida.
+- **Testes e homologação:** consultas DAX contra o modelo para reconciliar medidas e testar regressões.
+- **PBIP/PBIR e TMDL:** projeto Power BI em formato de texto, editável e versionável.
 
 **Fontes de dados utilizadas no case:** CSV, Excel, JSON e XML.
 
@@ -70,6 +83,9 @@ O painel foi estruturado para responder questões como:
 
 **4. Propagação de filtros.** Para analisar custos por transportadora, algumas medidas utilizam `TREATAS` para aplicar o contexto de parceiros às placas e registros de abastecimento/manutenção, sem criar novos caminhos físicos ambíguos.
 
+**5. Comparações dentro do tooltip.** Cada tooltip recebe o filtro do item sob o mouse e os filtros da página. Medidas com `REMOVEFILTERS` comparam o item com a média, `RANKX` calcula o ranking e `DATEADD` com `REMOVEFILTERS ( d_calendario )` traz o mês anterior mesmo quando o gráfico filtra `Ano` e `Mês`.
+
+**6. Homologação contra o modelo.** As medidas foram validadas com consultas DAX no motor local do Power BI Desktop, comparando cada resultado com um cálculo independente. A homologação revelou, entre outros pontos, um mês parcial (julho/2026) e uma transportadora inativa com o maior volume de entregas.
 ## Documentação técnica
 
 | Documento | Conteúdo |
@@ -79,12 +95,14 @@ O painel foi estruturado para responder questões como:
 | [Dicionário de indicadores e DAX](docs/indicadores-e-dax.md) | KPIs, premissas, denominadores e fórmulas |
 | [Qualidade e limitações](docs/qualidade-e-limitacoes.md) | Problemas identificados, tratamentos e pontos a auditar |
 | [Reprodução e publicação](docs/reproducao-e-publicacao.md) | Etapas de ETL, modelagem, validação e publicação |
-
+| [Tooltips de detalhamento](docs/tooltips.md) | Layout, catálogo, regras dos insights e padrões DAX |
+| [Homologação dos dados](docs/homologacao-dos-dados.md) | Método, verificações, achados da base e ajustes |
 ## Próximas evoluções
 
-- Adicionar capturas de tela das páginas e imagens do modelo de dados.
-- Versionar os arquivos de projeto Power BI quando disponibilizados em formato adequado.
-- Aprimorar a modelagem dos chamados separando suas interações.
+- Adicionar capturas de tela das páginas, dos tooltips e do modelo de dados.
+- Versionar no repositório o projeto em PBIP/PBIR, sem cache e configurações locais.
+- Tratar os achados da homologação: status da Rodonorte, mês parcial no gráfico principal, entregas sem data e motoristas sem cadastro.
+- Normalizar `d_transportadora` (uma linha por transportadora) e separar as interações do SAC em uma tabela própria.
 - Aprofundar a auditoria dos pontos geográficos e da medida de peso transportado.
 
 ## Autoria
